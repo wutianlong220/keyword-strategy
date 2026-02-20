@@ -1,0 +1,10 @@
+# 关键词分析系统依赖
+
+# OpenAI SDK (用于连接智谱GLM - OpenAI兼容接口)
+openai>=1.0.0
+
+# YAML 配置文件解析
+PyYAML>=6.0.1
+
+# 环境变量管理
+python-dotenv>=1.0.0

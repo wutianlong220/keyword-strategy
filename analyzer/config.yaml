@@ -1,0 +1,166 @@
+# 关键词分析系统配置文件
+
+# ====================
+# API 配置
+# ====================
+api:
+  provider: zhipu  # 智谱GLM
+  model: glm-4-flash  # 模型版本 (推荐: glm-4-flash 快速便宜, glm-4-plus 更强大, glm-5 最新旗舰)
+  max_tokens: 8000  # 单次请求最大 token 数
+  temperature: 0.3  # 温度参数，越低越稳定
+
+  # API Key (从环境变量读取，更安全)
+  # 在终端运行: export ZHIPU_API_KEY="your-api-key"
+  # 或在 .bashrc/.zshrc 中添加: export ZHIPU_API_KEY="your-api-key"
+  # 获取 API Key: https://open.bigmodel.cn/usercenter/apikeys
+  api_key_env: ZHIPU_API_KEY
+
+# ====================
+# 并发配置
+# ====================
+concurrency:
+  max_parallel: 3  # 最大并发请求数
+  batch_size: 200  # 每批处理的关键词数量（降低以避免响应被截断）
+
+# ====================
+# 聚类配置
+# ====================
+clustering:
+  # 这些参数会传递给 AI，指导聚类行为
+  min_keywords_per_theme: 3  # 每个主题至少包含的关键词数
+  max_themes_per_batch: 50   # 每批最多识别的主题数
+
+  # 聚类策略（AI 会参考这些规则）
+  strategy:
+    # 宽泛分类：把相关细分归为一个大主题
+    use_broad_categories: true
+
+    # 保留细节：每个主题下保留细分和具体关键词
+    preserve_details: true
+
+    # 相似度阈值（AI 参考）
+    similarity_threshold: 0.6
+
+# ====================
+# 评分配置
+# ====================
+scoring:
+  # 权重设置
+  weights:
+    rising: 0.7   # 飙升趋势权重（增长趋势）
+    top: 0.3      # 热门需求权重（稳定需求）
+
+  # 评分因子
+  factors:
+    # 关键词数量评分
+    keywords_count:
+      excellent: 20  # 20个以上关键词得满分
+      good: 10       # 10-20个
+      minimum: 3     # 最少3个
+
+    # 增长率评分 (rising 类型)
+    rising_growth:
+      excellent: 1000  # 平均增长 1000% 以上
+      good: 500        # 平均增长 500-1000%
+      baseline: 100    # 基准增长 100%
+
+    # 相关度评分 (top 类型)
+    top_score:
+      excellent: 80   # 平均相关度 80 以上
+      good: 60        # 平均相关度 60-80
+      baseline: 30    # 基准相关度 30
+
+# ====================
+# 过滤配置
+# ====================
+filters:
+  # 基础过滤规则
+  min_value_rising: 50     # rising 类型最小增长率（降低以保留更多关键词）
+  min_value_top: 10        # top 类型最小相关度（降低以保留更多关键词）
+
+  # 关键词长度过滤
+  min_keyword_length: 3    # 最短关键词长度
+  max_keyword_length: 100  # 最长关键词长度
+
+  # 语言过滤（可选，目前不过滤）
+  # languages: [en]  # 只保留英文关键词
+
+# ====================
+# 数据保留配置
+# ====================
+retention:
+  # 原始 CSV（search-for-Google-keywords/）
+  raw_csv: permanent  # 永久保留，脚本不删除
+
+  # 详细分析数据
+  themes_recent_days: 7  # 保留 7 天
+
+  # 月度汇总
+  monthly_summary: permanent  # 永久保留
+
+  # 决策记录
+  decisions: permanent  # 永久保留
+
+  # 分析报告
+  reports: permanent  # 永久保留
+
+# ====================
+# 输出配置
+# ====================
+output:
+  # 报告语言
+  language: zh  # 中文报告
+
+  # 输出格式
+  formats:
+    - markdown  # Markdown 报告
+    - json      # JSON 数据（用于历史对比）
+
+  # 报告内容
+  include_all_themes: true  # 包含所有主题（不只是高分主题）
+
+  # 是否包含细分关键词
+  include_subthemes: true   # 包含细分关键词
+  include_keywords: true    # 包含具体关键词列表
+
+# ====================
+# 历史数据配置
+# ====================
+history:
+  # 历史对比窗口
+  comparison_window: 7  # 对比最近 7 天的数据
+
+  # 月度汇总日期（每月1号生成上月汇总）
+  monthly_summary_day: 1
+
+  # 趋势判断阈值
+  trend_threshold:
+    consecutive_days: 3  # 连续出现 3 天视为持续主题
+    score_increase: 10   # 得分增长 10+ 视为上升趋势
+    score_decrease: 10   # 得分下降 10+ 视为下降趋势
+
+# ====================
+# 商业分析配置
+# ====================
+business_analysis:
+  # 网站类型
+  site_types:
+    tools: 工具站
+    content: 内容站
+    directory: 导航站
+    hybrid: 混合型
+
+  # 变现方式
+  monetization:
+    subscription: 订阅制
+    adsense: AdSense
+    affiliate: 联盟营销
+    freemium: Freemium
+    sponsored: 赞助内容
+
+  # 搜索意图分类
+  search_intent:
+    transactional: 交易意图
+    informational: 信息意图
+    navigational: 导航意图
+    commercial_investigation: 商业调查

@@ -1,0 +1,6867 @@
+{
+  "date": "20260220",
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 50,
+      "rising_count": 36,
+      "top_count": 14,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "free video generator ai",
+              "value": 12,
+              "type": "top"
+            },
+            {
+              "keyword": "free ai image generator",
+              "value": 8,
+              "type": "top"
+            },
+            {
+              "keyword": "meme generator",
+              "value": 8,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Graphs and Data Visualization",
+          "keywords": [
+            {
+              "keyword": "graph",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "line graph",
+              "value": 18,
+              "type": "top"
+            },
+            {
+              "keyword": "bar graph",
+              "value": 14,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Guides and How-tos",
+          "keywords": [
+            {
+              "keyword": "56 days parents guide",
+              "value": 350,
+              "type": "rising"
+            },
+            {
+              "keyword": "how to make pancakes",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "how to tie a tie",
+              "value": 96,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Helper Tools and Applications",
+          "keywords": [
+            {
+              "keyword": "helper",
+              "value": 800,
+              "type": "rising"
+            },
+            {
+              "keyword": "english helper login",
+              "value": 80,
+              "type": "rising"
+            },
+            {
+              "keyword": "hamburger helper",
+              "value": 85,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Hints and Clues",
+          "keywords": [
+            {
+              "keyword": "hint",
+              "value": 165350,
+              "type": "rising"
+            },
+            {
+              "keyword": "connections hint",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "wordle",
+              "value": 85,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Humanizer Tools",
+          "keywords": [
+            {
+              "keyword": "humanizer",
+              "value": 200,
+              "type": "rising"
+            },
+            {
+              "keyword": "ai",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "free humanizer",
+              "value": 22,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            },
+            {
+              "keyword": "image generator ai",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "image ai generator",
+              "value": 30,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Image Editing",
+          "keywords": [
+            {
+              "keyword": "image google",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "image reverse search",
+              "value": 41,
+              "type": "top"
+            },
+            {
+              "keyword": "remove background from image",
+              "value": 26,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Image Conversion",
+          "keywords": [
+            {
+              "keyword": "pdf to image",
+              "value": 51,
+              "type": "top"
+            },
+            {
+              "keyword": "image converter",
+              "value": 22,
+              "type": "top"
+            },
+            {
+              "keyword": "image to text",
+              "value": 21,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cartoon Content",
+      "name_zh": "卡通内容",
+      "score": 90,
+      "keywords_count": 29,
+      "rising_count": 0,
+      "top_count": 29,
+      "avg_rising_growth": 0,
+      "avg_top_score": 69,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题内容丰富，适合建立卡通内容平台",
+      "subthemes": [
+        {
+          "name": "Cartoon Channels",
+          "keywords": [
+            {
+              "keyword": "cartoon network",
+              "value": 85,
+              "type": "top"
+            },
+            {
+              "keyword": "tubi cartoon network",
+              "value": 40,
+              "type": "top"
+            },
+            {
+              "keyword": "new cartoon",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Cartoon Characters",
+          "keywords": [
+            {
+              "keyword": "cartoon character",
+              "value": 67,
+              "type": "top"
+            },
+            {
+              "keyword": "cartoon cat",
+              "value": 67,
+              "type": "top"
+            },
+            {
+              "keyword": "cartoon dog",
+              "value": 64,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Cartoon Types",
+          "keywords": [
+            {
+              "keyword": "cartoon video",
+              "value": 77,
+              "type": "top"
+            },
+            {
+              "keyword": "cartoon movie",
+              "value": 56,
+              "type": "top"
+            },
+            {
+              "keyword": "cartoon drawing",
+              "value": 39,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anime and Manga",
+      "name_zh": "动漫和漫画",
+      "score": 90,
+      "keywords_count": 10,
+      "rising_count": 0,
+      "top_count": 10,
+      "avg_top_score": 17,
+      "search_intent": "娱乐意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题以动漫和漫画为主题，适合建立动漫社区或资源分享网站",
+      "subthemes": [
+        {
+          "name": "Anime Series",
+          "keywords": [
+            {
+              "keyword": "one piece",
+              "value": 23,
+              "type": "top"
+            },
+            {
+              "keyword": "naruto",
+              "value": 20,
+              "type": "top"
+            },
+            {
+              "keyword": "anime",
+              "value": 25,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Anime Wallpapers",
+          "keywords": [
+            {
+              "keyword": "wallpaper anime",
+              "value": 25,
+              "type": "top"
+            },
+            {
+              "keyword": "anime tv",
+              "value": 17,
+              "type": "top"
+            },
+            {
+              "keyword": "anime slayer",
+              "value": 17,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Anime Characters",
+          "keywords": [
+            {
+              "keyword": "kawaii anime",
+              "value": 16,
+              "type": "top"
+            },
+            {
+              "keyword": "animes",
+              "value": 15,
+              "type": "top"
+            },
+            {
+              "keyword": "ver anime",
+              "value": 15,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Live Action Movies",
+      "name_zh": "真人电影",
+      "score": 90,
+      "keywords_count": 8,
+      "rising_count": 4,
+      "top_count": 4,
+      "avg_rising_growth": 300,
+      "avg_top_score": 75,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及热门真人电影，适合制作相关内容网站",
+      "subthemes": [
+        {
+          "name": "Scooby Doo Live Action",
+          "keywords": [
+            {
+              "keyword": "scooby doo live action netflix",
+              "value": 2300,
+              "type": "rising"
+            },
+            {
+              "keyword": "scooby doo live action",
+              "value": 250,
+              "type": "rising"
+            },
+            {
+              "keyword": "scooby doo live action",
+              "value": 250,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Other Live Action Titles",
+          "keywords": [
+            {
+              "keyword": "tom noonan last action hero",
+              "value": 1850,
+              "type": "rising"
+            },
+            {
+              "keyword": "antevisão folheto action",
+              "value": 2000,
+              "type": "rising"
+            },
+            {
+              "keyword": "live action",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plagiarism Checker",
+      "name_zh": "抄袭检测器",
+      "score": 90,
+      "keywords_count": 6,
+      "rising_count": 0,
+      "top_count": 6,
+      "avg_rising_growth": 0,
+      "avg_top_score": 85,
+      "search_intent": "信息意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题相关度较高，适合提供抄袭检测工具。",
+      "subthemes": [
+        {
+          "name": "Text Plagiarism",
+          "keywords": [
+            {
+              "keyword": "checker",
+              "value": 7,
+              "type": "top"
+            },
+            {
+              "keyword": "turnitin checker",
+              "value": 7,
+              "type": "top"
+            },
+            {
+              "keyword": "resume checker",
+              "value": 7,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Face and Beauty Products",
+      "name_zh": "面部和美容产品",
+      "score": 90,
+      "keywords_count": 20,
+      "rising_count": 8,
+      "top_count": 12,
+      "avg_rising_growth": 437.5,
+      "avg_top_score": 25,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题关键词数量适中，增长率较高，适合提供面部和美容产品信息。",
+      "subthemes": [
+        {
+          "name": "Face Products",
+          "keywords": [
+            {
+              "keyword": "face wash",
+              "value": 25,
+              "type": "top"
+            },
+            {
+              "keyword": "face mask",
+              "value": 22,
+              "type": "top"
+            },
+            {
+              "keyword": "face cream",
+              "value": 16,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Beauty Products",
+          "keywords": [
+            {
+              "keyword": "face treatments near me",
+              "value": 300,
+              "type": "rising"
+            },
+            {
+              "keyword": "face blade",
+              "value": 180,
+              "type": "rising"
+            },
+            {
+              "keyword": "best sunscreen for face",
+              "value": 15,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Composer and Music",
+      "name_zh": "作曲家与音乐",
+      "score": 90,
+      "keywords_count": 35,
+      "rising_count": 18,
+      "top_count": 17,
+      "avg_rising_growth": 6250,
+      "avg_top_score": 40,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题包含作曲家和音乐相关的信息查询，适合建立音乐历史或作曲家介绍网站",
+      "subthemes": [
+        {
+          "name": "Composer Profiles",
+          "keywords": [
+            {
+              "keyword": "gnossiennes composer",
+              "value": 31850,
+              "type": "rising"
+            },
+            {
+              "keyword": "billy budd composer",
+              "value": 27450,
+              "type": "rising"
+            },
+            {
+              "keyword": "film composer zimmer nyt",
+              "value": 13150,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Composer Crosswords",
+          "keywords": [
+            {
+              "keyword": "gnossiennes composer crossword clue",
+              "value": 30050,
+              "type": "rising"
+            },
+            {
+              "keyword": "bodies of work crossword clue",
+              "value": 12350,
+              "type": "rising"
+            },
+            {
+              "keyword": "ashram figure crossword clue",
+              "value": 9750,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Composer General",
+          "keywords": [
+            {
+              "keyword": "music composer",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "composer",
+              "value": 40,
+              "type": "top"
+            },
+            {
+              "keyword": "composer meaning",
+              "value": 11,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Content Creation",
+      "name_zh": "内容创作",
+      "score": 90,
+      "keywords_count": 25,
+      "rising_count": 8,
+      "top_count": 17,
+      "avg_rising_growth": 50,
+      "avg_top_score": 40,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告/联盟营销",
+      "opportunity_analysis": "内容创作领域需求稳定，适合提供相关工具和资源",
+      "subthemes": [
+        {
+          "name": "Podcast Creation",
+          "keywords": [
+            {
+              "keyword": "apple podcast creator",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "podcast creator",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "metahuman creator",
+              "value": 50,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Video Creation",
+          "keywords": [
+            {
+              "keyword": "video creator",
+              "value": 14,
+              "type": "top"
+            },
+            {
+              "keyword": "youtube creator",
+              "value": 13,
+              "type": "top"
+            },
+            {
+              "keyword": "tiktok creator",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Book Creation",
+          "keywords": [
+            {
+              "keyword": "book creator",
+              "value": 11,
+              "type": "top"
+            },
+            {
+              "keyword": "pdf creator gratis",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "pdf creator",
+              "value": 11,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Modifier Usage",
+      "name_zh": "修饰语使用",
+      "score": 90,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 70,
+      "search_intent": "信息意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题搜索量增长迅速，适合建立修饰语使用相关的工具网站",
+      "subthemes": [
+        {
+          "name": "Modifier Definitions",
+          "keywords": [
+            {
+              "keyword": "modifier l'orientation de quelque chose",
+              "value": 2400,
+              "type": "rising"
+            },
+            {
+              "keyword": "gt modifier description",
+              "value": 180,
+              "type": "rising"
+            },
+            {
+              "keyword": "modifier 76 description",
+              "value": 140,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Modifier Examples",
+          "keywords": [
+            {
+              "keyword": "modifier signature outlook",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "supprimer page pdf",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "jz modifier description",
+              "value": 70,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Online Casinos",
+      "name_zh": "在线赌场",
+      "score": 90,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 70,
+      "search_intent": "交易意图",
+      "site_type": "电商站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题搜索量增长迅速，适合建立在线赌场相关的电商平台",
+      "subthemes": [
+        {
+          "name": "Casino Websites",
+          "keywords": [
+            {
+              "keyword": "online casino",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "casino online",
+              "value": 61,
+              "type": "top"
+            },
+            {
+              "keyword": "games online",
+              "value": 43,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sports Managers",
+      "name_zh": "体育经理",
+      "score": 90,
+      "keywords_count": 10,
+      "rising_count": 4,
+      "top_count": 6,
+      "avg_rising_growth": 2800,
+      "avg_top_score": 100,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及体育领域的经理，适合提供相关人物介绍或管理策略。",
+      "subthemes": [
+        {
+          "name": "Famous Sports Managers",
+          "keywords": [
+            {
+              "keyword": "tiki ghosn",
+              "value": 2800,
+              "type": "rising"
+            },
+            {
+              "keyword": "rampage jackson manager",
+              "value": 2150,
+              "type": "rising"
+            },
+            {
+              "keyword": "benfica manager",
+              "value": 450,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Managerial Strategies",
+          "keywords": [
+            {
+              "keyword": "flextime manager",
+              "value": 90,
+              "type": "rising"
+            },
+            {
+              "keyword": "real madrid manager",
+              "value": 80,
+              "type": "rising"
+            },
+            {
+              "keyword": "manager magazin",
+              "value": 50,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Icon Design",
+      "name_zh": "图标设计",
+      "score": 90,
+      "keywords_count": 20,
+      "rising_count": 6,
+      "top_count": 14,
+      "avg_rising_growth": 250,
+      "avg_top_score": 40,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题有稳定搜索量，适合做图标设计教程和资源站",
+      "subthemes": [
+        {
+          "name": "Icon Creation",
+          "keywords": [
+            {
+              "keyword": "ramadan icon",
+              "value": 250,
+              "type": "rising"
+            },
+            {
+              "keyword": "icon tết",
+              "value": 90,
+              "type": "rising"
+            },
+            {
+              "keyword": "linkedin icon",
+              "value": 40,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Icon Usage",
+          "keywords": [
+            {
+              "keyword": "the icon",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "png icon",
+              "value": 33,
+              "type": "top"
+            },
+            {
+              "keyword": "app icon",
+              "value": 26,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Icon Packs",
+          "keywords": [
+            {
+              "keyword": "icon free",
+              "value": 18,
+              "type": "top"
+            },
+            {
+              "keyword": "new icon",
+              "value": 17,
+              "type": "top"
+            },
+            {
+              "keyword": "iphone icon",
+              "value": 16,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Photo Editing and Tools",
+      "name_zh": "照片编辑与工具",
+      "score": 90,
+      "keywords_count": 22,
+      "rising_count": 0,
+      "top_count": 22,
+      "avg_rising_growth": 0,
+      "avg_top_score": 70,
+      "search_intent": "工具搜索",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "照片编辑和工具领域搜索量稳定，适合建立照片编辑工具和教程网站",
+      "subthemes": [
+        {
+          "name": "Photo Editing",
+          "keywords": [
+            {
+              "keyword": "photo editing",
+              "value": 82,
+              "type": "top"
+            },
+            {
+              "keyword": "photo background",
+              "value": 77,
+              "type": "top"
+            },
+            {
+              "keyword": "passport photo",
+              "value": 72,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Smartphone Features",
+      "name_zh": "智能手机功能",
+      "score": 90,
+      "keywords_count": 6,
+      "rising_count": 3,
+      "top_count": 3,
+      "avg_rising_growth": 70,
+      "avg_top_score": 70,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及智能手机功能，适合建立提供最新智能手机资讯和评测的内容站",
+      "subthemes": [
+        {
+          "name": "Portrait Mode",
+          "keywords": [
+            {
+              "keyword": "portrait mode iphone",
+              "value": 12,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Processor Specifications",
+          "keywords": [
+            {
+              "keyword": "gestalt language processor",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "the screen display size of oppo reno 15c",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "equity processor",
+              "value": 60,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Processor Brands",
+          "keywords": [
+            {
+              "keyword": "intel processor",
+              "value": 73,
+              "type": "top"
+            },
+            {
+              "keyword": "best processor",
+              "value": 68,
+              "type": "top"
+            },
+            {
+              "keyword": "intel",
+              "value": 66,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Restore and Data Recovery",
+      "name_zh": "恢复和数据恢复",
+      "score": 90,
+      "keywords_count": 30,
+      "rising_count": 19,
+      "top_count": 11,
+      "avg_rising_growth": 1200,
+      "avg_top_score": 70,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及数据恢复和系统恢复，适合建立提供恢复工具和服务的网站",
+      "subthemes": [
+        {
+          "name": "Data Recovery Tools",
+          "keywords": [
+            {
+              "keyword": "restore",
+              "value": 2600,
+              "type": "rising"
+            },
+            {
+              "keyword": "datahaven testnet",
+              "value": 2050,
+              "type": "rising"
+            },
+            {
+              "keyword": "iphone restore",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "System Restore",
+          "keywords": [
+            {
+              "keyword": "system restore",
+              "value": 9,
+              "type": "top"
+            },
+            {
+              "keyword": "task scheduler",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "windows scheduler",
+              "value": 45,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scraper Tools and Utilities",
+      "name_zh": "抓取工具和实用程序",
+      "score": 90,
+      "keywords_count": 20,
+      "rising_count": 6,
+      "top_count": 10,
+      "avg_rising_growth": 1400,
+      "avg_top_score": 32,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及抓取工具和实用程序，适合建立提供抓取工具和服务的网站",
+      "subthemes": [
+        {
+          "name": "Game Scraper",
+          "keywords": [
+            {
+              "keyword": "ps4 game scraper",
+              "value": 3800,
+              "type": "rising"
+            },
+            {
+              "keyword": "ps4 scraper",
+              "value": 1400,
+              "type": "rising"
+            },
+            {
+              "keyword": "scrapper meaning",
+              "value": 150,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solver Tools",
+      "name_zh": "求解工具",
+      "score": 90,
+      "keywords_count": 21,
+      "rising_count": 9,
+      "top_count": 12,
+      "avg_rising_growth": 5200,
+      "avg_top_score": 98,
+      "search_intent": "工具意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题提供各种求解工具，适合建立工具站",
+      "subthemes": [
+        {
+          "name": "Math Solvers",
+          "keywords": [
+            {
+              "keyword": "math solver",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "math",
+              "value": 98,
+              "type": "top"
+            },
+            {
+              "keyword": "calculator",
+              "value": 34,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Word Solvers",
+          "keywords": [
+            {
+              "keyword": "word solver",
+              "value": 8,
+              "type": "top"
+            },
+            {
+              "keyword": "anagram solver",
+              "value": 19,
+              "type": "top"
+            },
+            {
+              "keyword": "crossword solver",
+              "value": 18,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Other Solvers",
+          "keywords": [
+            {
+              "keyword": "captcha solver",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "cube solver",
+              "value": 14,
+              "type": "top"
+            },
+            {
+              "keyword": "rubik's cube solver",
+              "value": 6,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "File and Media Uploaders",
+      "name_zh": "文件和媒体上传工具",
+      "score": 90,
+      "keywords_count": 25,
+      "rising_count": 12,
+      "top_count": 13,
+      "avg_rising_growth": 21000,
+      "avg_top_score": 91,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告/联盟营销",
+      "opportunity_analysis": "该主题搜索量较大，适合提供文件和媒体上传服务",
+      "subthemes": [
+        {
+          "name": "Image Uploaders",
+          "keywords": [
+            {
+              "keyword": "uploader",
+              "value": 68,
+              "type": "top"
+            },
+            {
+              "keyword": "imgbb",
+              "value": 23450,
+              "type": "rising"
+            },
+            {
+              "keyword": "giphy",
+              "value": 22800,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Video Uploaders",
+          "keywords": [
+            {
+              "keyword": "youtube uploader",
+              "value": 61,
+              "type": "top"
+            },
+            {
+              "keyword": "youtube studio",
+              "value": 18050,
+              "type": "rising"
+            },
+            {
+              "keyword": "youtube video uploader",
+              "value": 27,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Summarization Tools",
+      "name_zh": "摘要工具",
+      "score": 90,
+      "keywords_count": 15,
+      "rising_count": 11,
+      "top_count": 7,
+      "avg_rising_growth": 1500,
+      "avg_top_score": 70,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题涉及摘要工具，适合建立摘要工具网站",
+      "subthemes": [
+        {
+          "name": "AI Summarizers",
+          "keywords": [
+            {
+              "keyword": "paraphrase tool",
+              "value": 17150,
+              "type": "rising"
+            },
+            {
+              "keyword": "studyfetch",
+              "value": 14500,
+              "type": "rising"
+            },
+            {
+              "keyword": "summarizeyou",
+              "value": 14050,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Video Summarizers",
+          "keywords": [
+            {
+              "keyword": "knowt ai video summarizer",
+              "value": 3400,
+              "type": "rising"
+            },
+            {
+              "keyword": "screenapp video summarizer",
+              "value": 170,
+              "type": "rising"
+            },
+            {
+              "keyword": "quilbot",
+              "value": 70,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Text and Language",
+      "name_zh": "文本和语言",
+      "score": 90,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 77,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题关键词相关度较高，且搜索量增长迅速，适合做文本翻译和语言学习相关的内容网站",
+      "subthemes": [
+        {
+          "name": "Text Translation",
+          "keywords": [
+            {
+              "keyword": "text me when you get home",
+              "value": 70,
+              "type": "top"
+            },
+            {
+              "keyword": "text free",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "google text",
+              "value": 77,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Text to Speech",
+          "keywords": [
+            {
+              "keyword": "speech to text",
+              "value": 79,
+              "type": "top"
+            },
+            {
+              "keyword": "text to voice",
+              "value": 34,
+              "type": "top"
+            },
+            {
+              "keyword": "text to image",
+              "value": 61,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Text Editing",
+          "keywords": [
+            {
+              "keyword": "text editor",
+              "value": 26,
+              "type": "top"
+            },
+            {
+              "keyword": "text box",
+              "value": 42,
+              "type": "top"
+            },
+            {
+              "keyword": "text font",
+              "value": 40,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Air and Water Filters",
+      "name_zh": "空气和水过滤器",
+      "score": 88,
+      "keywords_count": 20,
+      "rising_count": 3,
+      "top_count": 15,
+      "avg_rising_growth": 100,
+      "avg_top_score": 95,
+      "search_intent": "工具查询",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题关键词数量适中，相关度较高，适合提供空气和水过滤器信息。",
+      "subthemes": [
+        {
+          "name": "Air Filters",
+          "keywords": [
+            {
+              "keyword": "air filter",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "cabin air filter",
+              "value": 27,
+              "type": "top"
+            },
+            {
+              "keyword": "car air filter",
+              "value": 20,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Water Filters",
+          "keywords": [
+            {
+              "keyword": "water filter",
+              "value": 95,
+              "type": "top"
+            },
+            {
+              "keyword": "water filter pitcher reviews",
+              "value": 16,
+              "type": "top"
+            },
+            {
+              "keyword": "whole house water filter",
+              "value": 4,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transcription and Translation Services",
+      "name_zh": "转录和翻译服务",
+      "score": 88,
+      "keywords_count": 25,
+      "rising_count": 3,
+      "top_count": 22,
+      "avg_rising_growth": 60,
+      "avg_top_score": 70,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告/联盟营销",
+      "opportunity_analysis": "该主题搜索量较大，适合提供在线转录和翻译服务",
+      "subthemes": [
+        {
+          "name": "Transcription Services",
+          "keywords": [
+            {
+              "keyword": "transcriber",
+              "value": 17,
+              "type": "top"
+            },
+            {
+              "keyword": "transcriber remote jobs",
+              "value": 13,
+              "type": "top"
+            },
+            {
+              "keyword": "medical transcriber",
+              "value": 12,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Translation Services",
+          "keywords": [
+            {
+              "keyword": "translator",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "english to afrikaans translator",
+              "value": 60,
+              "type": "rising"
+            },
+            {
+              "keyword": "english translator",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Calculator Tools",
+      "name_zh": "计算器工具",
+      "score": 85,
+      "keywords_count": 4,
+      "rising_count": 0,
+      "top_count": 4,
+      "avg_rising_growth": 0,
+      "avg_top_score": 22,
+      "search_intent": "工具查询",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题相关度较高，适合提供计算器相关工具和资源",
+      "subthemes": [
+        {
+          "name": "General Calculator",
+          "keywords": [
+            {
+              "keyword": "calculator",
+              "value": 23,
+              "type": "top"
+            },
+            {
+              "keyword": "weight calculator",
+              "value": 22,
+              "type": "top"
+            },
+            {
+              "keyword": "calculator scientific",
+              "value": 22,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Answer and Question",
+      "name_zh": "问答",
+      "score": 85,
+      "keywords_count": 20,
+      "rising_count": 15,
+      "top_count": 5,
+      "avg_rising_growth": 4700,
+      "avg_top_score": 52,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及各种问答，适合建立问答社区或知识分享平台",
+      "subthemes": [
+        {
+          "name": "Wordle Answers",
+          "keywords": [
+            {
+              "keyword": "wordle answer feb 17",
+              "value": 6300,
+              "type": "rising"
+            },
+            {
+              "keyword": "wordle answer feb 18",
+              "value": 5300,
+              "type": "rising"
+            },
+            {
+              "keyword": "wordle answer feb 18 2026",
+              "value": 3250,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "General Questions",
+          "keywords": [
+            {
+              "keyword": "what should you do before using ai-generated information?",
+              "value": 4700,
+              "type": "rising"
+            },
+            {
+              "keyword": "google pixel 10a",
+              "value": 3950,
+              "type": "rising"
+            },
+            {
+              "keyword": "annular solar eclipse today",
+              "value": 3800,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Answer Keys",
+          "keywords": [
+            {
+              "keyword": "rrb railway group d answer key",
+              "value": 2800,
+              "type": "rising"
+            },
+            {
+              "keyword": "ctet nic answer key",
+              "value": 2700,
+              "type": "rising"
+            },
+            {
+              "keyword": "cbse class 10 maths exam question paper",
+              "value": 1050,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Class Action Lawsuits",
+      "name_zh": "集体诉讼",
+      "score": 85,
+      "keywords_count": 7,
+      "rising_count": 4,
+      "top_count": 3,
+      "avg_rising_growth": 150,
+      "avg_top_score": 80,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及集体诉讼信息，适合制作相关内容网站",
+      "subthemes": [
+        {
+          "name": "Venmo Class Action",
+          "keywords": [
+            {
+              "keyword": "venmo class action lawsuit",
+              "value": 190,
+              "type": "rising"
+            },
+            {
+              "keyword": "venmo class action",
+              "value": 200,
+              "type": "rising"
+            },
+            {
+              "keyword": "venmo class action lawsuit 2026",
+              "value": 140,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Apple iCloud Class Action",
+          "keywords": [
+            {
+              "keyword": "apple icloud class action lawsuit",
+              "value": 80,
+              "type": "rising"
+            },
+            {
+              "keyword": "apple icloud class action",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "apple class action lawsuit",
+              "value": 70,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crossword Clues",
+      "name_zh": "填字游戏线索",
+      "score": 85,
+      "keywords_count": 15,
+      "rising_count": 12,
+      "top_count": 3,
+      "avg_rising_growth": 30000,
+      "avg_top_score": 50,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题增长迅速，适合提供填字游戏线索相关内容。",
+      "subthemes": [
+        {
+          "name": "Specific Clues",
+          "keywords": [
+            {
+              "keyword": "glass container with plants",
+              "value": 50800,
+              "type": "rising"
+            },
+            {
+              "keyword": "small mindedness crossword clue",
+              "value": 32150,
+              "type": "rising"
+            },
+            {
+              "keyword": "yellowtail sushi",
+              "value": 19550,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PDF Extraction Tools",
+      "name_zh": "PDF提取工具",
+      "score": 85,
+      "keywords_count": 5,
+      "rising_count": 0,
+      "top_count": 5,
+      "avg_rising_growth": 0,
+      "avg_top_score": 16,
+      "search_intent": "工具查询",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题关键词数量较少，但相关度较高，适合提供PDF提取工具。",
+      "subthemes": [
+        {
+          "name": "PDF Extractors",
+          "keywords": [
+            {
+              "keyword": "pdf extractor",
+              "value": 16,
+              "type": "top"
+            },
+            {
+              "keyword": "extractor de cocina",
+              "value": 15,
+              "type": "top"
+            },
+            {
+              "keyword": "extractor manual",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Formats and Generators",
+      "name_zh": "格式和生成器",
+      "score": 85,
+      "keywords_count": 20,
+      "rising_count": 4,
+      "top_count": 15,
+      "avg_rising_growth": 100,
+      "avg_top_score": 44,
+      "search_intent": "工具查询",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题关键词数量适中，增长率较高，适合提供格式和生成器工具。",
+      "subthemes": [
+        {
+          "name": "Formats",
+          "keywords": [
+            {
+              "keyword": "olympic hockey overtime format",
+              "value": 1600,
+              "type": "rising"
+            },
+            {
+              "keyword": "formal letter format",
+              "value": 40,
+              "type": "top"
+            },
+            {
+              "keyword": "apa format",
+              "value": 26,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Generators",
+          "keywords": [
+            {
+              "keyword": "random number generator 1-14",
+              "value": 14700,
+              "type": "rising"
+            },
+            {
+              "keyword": "google's random number generator",
+              "value": 6650,
+              "type": "rising"
+            },
+            {
+              "keyword": "ai generator",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Programming Compilers",
+      "name_zh": "编程编译器",
+      "score": 85,
+      "keywords_count": 14,
+      "rising_count": 0,
+      "top_count": 14,
+      "avg_rising_growth": 0,
+      "avg_top_score": 20,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题以信息查询为主，适合建立编程编译器相关的知识库或教程网站",
+      "subthemes": [
+        {
+          "name": "C++ Compilers",
+          "keywords": [
+            {
+              "keyword": "c++",
+              "value": 20,
+              "type": "top"
+            },
+            {
+              "keyword": "compiler c++",
+              "value": 20,
+              "type": "top"
+            },
+            {
+              "keyword": "online c++ compiler",
+              "value": 12,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "General Compilers",
+          "keywords": [
+            {
+              "keyword": "compiler",
+              "value": 20,
+              "type": "top"
+            },
+            {
+              "keyword": "html compiler",
+              "value": 8,
+              "type": "top"
+            },
+            {
+              "keyword": "code compiler",
+              "value": 6,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Specific Compilers",
+          "keywords": [
+            {
+              "keyword": "chatgpt online",
+              "value": 7,
+              "type": "top"
+            },
+            {
+              "keyword": "gdb",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "sql compiler",
+              "value": 4,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Converters and Conversion Tools",
+      "name_zh": "转换器和转换工具",
+      "score": 85,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 70,
+      "avg_top_score": 67,
+      "search_intent": "信息意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及转换器和转换工具相关的信息查询，适合建立在线转换工具网站",
+      "subthemes": [
+        {
+          "name": "Currency Converters",
+          "keywords": [
+            {
+              "keyword": "euro to pound converter",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "est to ist converter",
+              "value": 50,
+              "type": "top"
+            },
+            {
+              "keyword": "epoch converter",
+              "value": 50,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "PDF Converters",
+          "keywords": [
+            {
+              "keyword": "converter pdf",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "pdf to pdf converter",
+              "value": 80,
+              "type": "top"
+            },
+            {
+              "keyword": "pdf word converter",
+              "value": 41,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Audio and Video Converters",
+          "keywords": [
+            {
+              "keyword": "mp3 converter",
+              "value": 41,
+              "type": "top"
+            },
+            {
+              "keyword": "mp3",
+              "value": 41,
+              "type": "top"
+            },
+            {
+              "keyword": "word to pdf converter",
+              "value": 38,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Creators and Content Creation",
+      "name_zh": "创作者和内容创作",
+      "score": 85,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 70,
+      "avg_top_score": 67,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及创作者和内容创作相关的信息查询，适合建立内容创作社区或教程网站",
+      "subthemes": [
+        {
+          "name": "Content Creators",
+          "keywords": [
+            {
+              "keyword": "crunch creator",
+              "value": 8200,
+              "type": "rising"
+            },
+            {
+              "keyword": "moomins creator",
+              "value": 3450,
+              "type": "rising"
+            },
+            {
+              "keyword": "captain durag creator",
+              "value": 1400,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Film Creators",
+          "keywords": [
+            {
+              "keyword": "citizen kane producer",
+              "value": 1250,
+              "type": "rising"
+            },
+            {
+              "keyword": "moomins creator jansson",
+              "value": 1000,
+              "type": "rising"
+            },
+            {
+              "keyword": "creator economy en europe",
+              "value": 950,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "General Creators",
+          "keywords": [
+            {
+              "keyword": "creator",
+              "value": 40,
+              "type": "top"
+            },
+            {
+              "keyword": "creator meaning",
+              "value": 11,
+              "type": "top"
+            },
+            {
+              "keyword": "creator download",
+              "value": 11,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Editor Tools",
+      "name_zh": "编辑工具",
+      "score": 85,
+      "keywords_count": 24,
+      "rising_count": 4,
+      "top_count": 20,
+      "avg_rising_growth": 50,
+      "avg_top_score": 63,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告/联盟营销",
+      "opportunity_analysis": "编辑工具需求稳定，适合提供PDF编辑、在线编辑等工具",
+      "subthemes": [
+        {
+          "name": "PDF Editing",
+          "keywords": [
+            {
+              "keyword": "pdf editor",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "pdf editor free",
+              "value": 20,
+              "type": "top"
+            },
+            {
+              "keyword": "online pdf editor",
+              "value": 63,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Online Editing",
+          "keywords": [
+            {
+              "keyword": "online editor",
+              "value": 63,
+              "type": "top"
+            },
+            {
+              "keyword": "tiptap editor",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "text editor",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Photo Editing",
+          "keywords": [
+            {
+              "keyword": "photo editor",
+              "value": 40,
+              "type": "top"
+            },
+            {
+              "keyword": "photo editor ai",
+              "value": 18,
+              "type": "top"
+            },
+            {
+              "keyword": "image editor",
+              "value": 16,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fashion Models",
+      "name_zh": "时尚模特",
+      "score": 85,
+      "keywords_count": 27,
+      "rising_count": 10,
+      "top_count": 17,
+      "avg_rising_growth": 0,
+      "avg_top_score": 4,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题以信息查询为主，适合建立时尚模特相关的内容网站",
+      "subthemes": [
+        {
+          "name": "Top Models",
+          "keywords": [
+            {
+              "keyword": "shandi top model",
+              "value": 4,
+              "type": "top"
+            },
+            {
+              "keyword": "tyra banks",
+              "value": 4,
+              "type": "top"
+            },
+            {
+              "keyword": "antm",
+              "value": 4,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Famous Fashion Models",
+          "keywords": [
+            {
+              "keyword": "shandi top model",
+              "value": 6650,
+              "type": "rising"
+            },
+            {
+              "keyword": "shandi america's next top model",
+              "value": 4600,
+              "type": "rising"
+            },
+            {
+              "keyword": "miss j",
+              "value": 2750,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Fashion Events",
+          "keywords": [
+            {
+              "keyword": "americas top model",
+              "value": 36,
+              "type": "top"
+            },
+            {
+              "keyword": "americas next top model",
+              "value": 33,
+              "type": "top"
+            },
+            {
+              "keyword": "top model",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Music Streaming",
+      "name_zh": "音乐流媒体",
+      "score": 85,
+      "keywords_count": 14,
+      "rising_count": 2,
+      "top_count": 12,
+      "avg_rising_growth": 0,
+      "avg_top_score": 40,
+      "search_intent": "交易意图",
+      "site_type": "内容站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题以信息查询和交易为主，适合建立音乐流媒体相关的内容网站",
+      "subthemes": [
+        {
+          "name": "Music Streaming Services",
+          "keywords": [
+            {
+              "keyword": "youtube music",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "apple music",
+              "value": 40,
+              "type": "top"
+            },
+            {
+              "keyword": "spotify music",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Logo and Branding",
+      "name_zh": "标志与品牌",
+      "score": 85,
+      "keywords_count": 27,
+      "rising_count": 5,
+      "top_count": 22,
+      "avg_rising_growth": 110,
+      "avg_top_score": 27,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及品牌和标志设计，适合提供相关教程或设计资源。",
+      "subthemes": [
+        {
+          "name": "Logo Design",
+          "keywords": [
+            {
+              "keyword": "logo design",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "logo",
+              "value": 18,
+              "type": "top"
+            },
+            {
+              "keyword": "logo generator",
+              "value": 16,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Famous Logos",
+          "keywords": [
+            {
+              "keyword": "google logo",
+              "value": 49,
+              "type": "top"
+            },
+            {
+              "keyword": "apple logo",
+              "value": 27,
+              "type": "top"
+            },
+            {
+              "keyword": "youtube logo",
+              "value": 27,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Logo Usage",
+          "keywords": [
+            {
+              "keyword": "logo hisse",
+              "value": 60,
+              "type": "rising"
+            },
+            {
+              "keyword": "logo işbaşı",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "logo hisse",
+              "value": 60,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Memes and Internet Culture",
+      "name_zh": "迷因与网络文化",
+      "score": 85,
+      "keywords_count": 20,
+      "rising_count": 11,
+      "top_count": 9,
+      "avg_rising_growth": 1950,
+      "avg_top_score": 61,
+      "search_intent": "娱乐意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及流行的迷因和网络文化，适合提供相关内容或迷因生成工具。",
+      "subthemes": [
+        {
+          "name": "Popular Memes",
+          "keywords": [
+            {
+              "keyword": "ash wednesday meme",
+              "value": 1950,
+              "type": "rising"
+            },
+            {
+              "keyword": "miercoles de ceniza meme",
+              "value": 1800,
+              "type": "rising"
+            },
+            {
+              "keyword": "prince andrew meme",
+              "value": 1100,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Meme Generators",
+          "keywords": [
+            {
+              "keyword": "meme generator",
+              "value": 23,
+              "type": "top"
+            },
+            {
+              "keyword": "meme soundboard",
+              "value": 14,
+              "type": "top"
+            },
+            {
+              "keyword": "meme template",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Content Ideas",
+      "name_zh": "内容创意",
+      "score": 85,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 900,
+      "avg_top_score": 80,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题搜索量高，适合做内容创意和灵感分享站",
+      "subthemes": [
+        {
+          "name": "Lent Ideas",
+          "keywords": [
+            {
+              "keyword": "lent ideas to give up",
+              "value": 900,
+              "type": "rising"
+            },
+            {
+              "keyword": "ideas to give up for lent",
+              "value": 800,
+              "type": "rising"
+            },
+            {
+              "keyword": "lent ideas",
+              "value": 550,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Ramadan Ideas",
+          "keywords": [
+            {
+              "keyword": "iftar ideas",
+              "value": 400,
+              "type": "rising"
+            },
+            {
+              "keyword": "ramadan decoration ideas",
+              "value": 90,
+              "type": "rising"
+            },
+            {
+              "keyword": "easter basket ideas",
+              "value": 90,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "General Ideas",
+          "keywords": [
+            {
+              "keyword": "gift ideas",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "birthday ideas",
+              "value": 80,
+              "type": "top"
+            },
+            {
+              "keyword": "meal ideas",
+              "value": 76,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paraphrasing Tools",
+      "name_zh": "改写工具",
+      "score": 85,
+      "keywords_count": 5,
+      "rising_count": 2,
+      "top_count": 3,
+      "avg_rising_growth": 100,
+      "avg_top_score": 90,
+      "search_intent": "工具搜索",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "改写工具市场需求稳定，适合建立专注于改写功能的网站",
+      "subthemes": [
+        {
+          "name": "Paraphrasing Tools",
+          "keywords": [
+            {
+              "keyword": "paraphaser",
+              "value": 126100,
+              "type": "rising"
+            },
+            {
+              "keyword": "paraphraser tool",
+              "value": 90,
+              "type": "top"
+            },
+            {
+              "keyword": "paraphraser tool",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Planner and Scheduling",
+      "name_zh": "计划与安排",
+      "score": 85,
+      "keywords_count": 24,
+      "rising_count": 10,
+      "top_count": 14,
+      "avg_rising_growth": 160,
+      "avg_top_score": 69,
+      "search_intent": "工具搜索",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "计划与安排工具需求稳定，适合建立计划和管理工具网站",
+      "subthemes": [
+        {
+          "name": "Planner Tools",
+          "keywords": [
+            {
+              "keyword": "planner",
+              "value": 250,
+              "type": "rising"
+            },
+            {
+              "keyword": "ramadhan planner",
+              "value": 200,
+              "type": "rising"
+            },
+            {
+              "keyword": "ramadan planner pdf gratuit",
+              "value": 200,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Product Photography",
+      "name_zh": "产品摄影",
+      "score": 85,
+      "keywords_count": 15,
+      "rising_count": 7,
+      "top_count": 8,
+      "avg_rising_growth": 5800,
+      "avg_top_score": 69,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及产品摄影技巧和工具，适合建立提供摄影教程和产品摄影资源的内容站",
+      "subthemes": [
+        {
+          "name": "Product Photo Editing",
+          "keywords": [
+            {
+              "keyword": "product photo editing",
+              "value": 69,
+              "type": "top"
+            },
+            {
+              "keyword": "product photo box",
+              "value": 40,
+              "type": "top"
+            },
+            {
+              "keyword": "photo editing software",
+              "value": 34,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Product Photo Equipment",
+          "keywords": [
+            {
+              "keyword": "product photo",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "product photo studio",
+              "value": 33,
+              "type": "top"
+            },
+            {
+              "keyword": "passport photo requirements",
+              "value": 17,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Product Photo Services",
+          "keywords": [
+            {
+              "keyword": "product photo shoot",
+              "value": 15,
+              "type": "top"
+            },
+            {
+              "keyword": "product lifecycle management",
+              "value": 15,
+              "type": "top"
+            },
+            {
+              "keyword": "product photo booth",
+              "value": 15,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emergency and First Responder",
+      "name_zh": "紧急和第一响应者",
+      "score": 85,
+      "keywords_count": 9,
+      "rising_count": 0,
+      "top_count": 9,
+      "avg_top_score": 1,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及紧急情况下的专业角色，适合建立提供相关培训、装备和信息的网站",
+      "subthemes": [
+        {
+          "name": "First Responder Training",
+          "keywords": [
+            {
+              "keyword": "first responder training",
+              "value": 1,
+              "type": "top"
+            },
+            {
+              "keyword": "first aid responder",
+              "value": 1,
+              "type": "top"
+            },
+            {
+              "keyword": "first responders",
+              "value": 1,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scheduler and Scheduling Tools",
+      "name_zh": "调度器和调度工具",
+      "score": 85,
+      "keywords_count": 20,
+      "rising_count": 10,
+      "top_count": 10,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 45,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及调度工具和资源，适合建立提供调度解决方案和工具的网站",
+      "subthemes": [
+        {
+          "name": "Task Scheduling",
+          "keywords": [
+            {
+              "keyword": "scheduler",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "task scheduler",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "windows scheduler",
+              "value": 45,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Simulator Games",
+      "name_zh": "模拟器游戏",
+      "score": 85,
+      "keywords_count": 27,
+      "rising_count": 15,
+      "top_count": 12,
+      "avg_rising_growth": 2350,
+      "avg_top_score": 61,
+      "search_intent": "交易意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题游戏种类丰富，适合建立模拟器游戏内容站",
+      "subthemes": [
+        {
+          "name": "Vehicle Simulators",
+          "keywords": [
+            {
+              "keyword": "truck simulator",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "farming simulator",
+              "value": 75,
+              "type": "top"
+            },
+            {
+              "keyword": "flight simulator",
+              "value": 61,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Anime Simulators",
+          "keywords": [
+            {
+              "keyword": "anime fighting simulator",
+              "value": 20,
+              "type": "top"
+            },
+            {
+              "keyword": "anime fighters simulator codes",
+              "value": 90,
+              "type": "rising"
+            },
+            {
+              "keyword": "anime fighting simulator endless discord",
+              "value": 120,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Other Simulators",
+          "keywords": [
+            {
+              "keyword": "park ranger simulator",
+              "value": 80,
+              "type": "rising"
+            },
+            {
+              "keyword": "berghain simulator",
+              "value": 50,
+              "type": "rising"
+            },
+            {
+              "keyword": "coin flip simulator",
+              "value": 50,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Image Upscaling Tools",
+      "name_zh": "图像放大工具",
+      "score": 85,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 130,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告/联盟营销",
+      "opportunity_analysis": "该主题搜索量适中，适合提供图像放大服务",
+      "subthemes": [
+        {
+          "name": "AI Image Upscalers",
+          "keywords": [
+            {
+              "keyword": "upscaler",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "hotpot ai",
+              "value": 180,
+              "type": "rising"
+            },
+            {
+              "keyword": "pixa",
+              "value": 130,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "General Image Upscalers",
+          "keywords": [
+            {
+              "keyword": "image upscaler",
+              "value": 99,
+              "type": "top"
+            },
+            {
+              "keyword": "image",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "image upscaler 4k",
+              "value": 5,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speech Topics",
+      "name_zh": "演讲主题",
+      "score": 85,
+      "keywords_count": 20,
+      "rising_count": 14,
+      "top_count": 6,
+      "avg_rising_growth": 500,
+      "avg_top_score": 50,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及多种演讲相关内容，适合建立演讲主题内容网站",
+      "subthemes": [
+        {
+          "name": "Historical Speeches",
+          "keywords": [
+            {
+              "keyword": "shivaji maharaj jayanti speech in marathi",
+              "value": 500,
+              "type": "rising"
+            },
+            {
+              "keyword": "chhatrapati shivaji maharaj speech in marathi",
+              "value": 200,
+              "type": "rising"
+            },
+            {
+              "keyword": "when is the state of the union speech",
+              "value": 190,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Political Speeches",
+          "keywords": [
+            {
+              "keyword": "aoc munich speech",
+              "value": 450,
+              "type": "rising"
+            },
+            {
+              "keyword": "marco rubio speech in munich",
+              "value": 120,
+              "type": "rising"
+            },
+            {
+              "keyword": "when is the budget speech 2026 south africa",
+              "value": 60,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Speech Education",
+          "keywords": [
+            {
+              "keyword": "reported speech class 10",
+              "value": 550,
+              "type": "rising"
+            },
+            {
+              "keyword": "reported speech rules",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "parts of speech in english",
+              "value": 50,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Test Equipment",
+      "name_zh": "测试设备",
+      "score": 85,
+      "keywords_count": 15,
+      "rising_count": 0,
+      "top_count": 15,
+      "avg_rising_growth": 0,
+      "avg_top_score": 55,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题关键词相关度较高，适合做测试设备相关的电子商务网站",
+      "subthemes": [
+        {
+          "name": "Electronic Testers",
+          "keywords": [
+            {
+              "keyword": "water tester",
+              "value": 57,
+              "type": "top"
+            },
+            {
+              "keyword": "cable tester",
+              "value": 55,
+              "type": "top"
+            },
+            {
+              "keyword": "pressure tester",
+              "value": 49,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Quality Assurance Testers",
+          "keywords": [
+            {
+              "keyword": "software tester",
+              "value": 39,
+              "type": "top"
+            },
+            {
+              "keyword": "qa tester",
+              "value": 35,
+              "type": "top"
+            },
+            {
+              "keyword": "game tester",
+              "value": 42,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Material Testers",
+          "keywords": [
+            {
+              "keyword": "diamond tester",
+              "value": 36,
+              "type": "top"
+            },
+            {
+              "keyword": "gold tester",
+              "value": 36,
+              "type": "top"
+            },
+            {
+              "keyword": "ph tester",
+              "value": 31,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transcription Services",
+      "name_zh": "转录服务",
+      "score": 85,
+      "keywords_count": 20,
+      "rising_count": 10,
+      "top_count": 10,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 50,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题关键词相关度较高，且搜索量增长迅速，适合做转录服务的电子商务网站",
+      "subthemes": [
+        {
+          "name": "Audio Transcription",
+          "keywords": [
+            {
+              "keyword": "go transcript",
+              "value": 34000,
+              "type": "top"
+            },
+            {
+              "keyword": "digital transcriber software",
+              "value": 19050,
+              "type": "top"
+            },
+            {
+              "keyword": "riverside ai transcriber",
+              "value": 8400,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Text Transcription",
+          "keywords": [
+            {
+              "keyword": "youtube transcript generator",
+              "value": 250,
+              "type": "top"
+            },
+            {
+              "keyword": "spanish to english",
+              "value": 170,
+              "type": "top"
+            },
+            {
+              "keyword": "free audio to text converter",
+              "value": 140,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Online Transcription",
+          "keywords": [
+            {
+              "keyword": "transcribe me",
+              "value": 80,
+              "type": "top"
+            },
+            {
+              "keyword": "riverside",
+              "value": 50,
+              "type": "top"
+            },
+            {
+              "keyword": "claude",
+              "value": 50,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Voice and Communication",
+      "name_zh": "语音与通讯",
+      "score": 85,
+      "keywords_count": 20,
+      "rising_count": 12,
+      "top_count": 8,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 50,
+      "search_intent": "工具查询",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及多种语音通讯工具和角色，适合建立专注于语音和通讯的网站",
+      "subthemes": [
+        {
+          "name": "Voice Communication Tools",
+          "keywords": [
+            {
+              "keyword": "league of legends voice chat",
+              "value": 2250,
+              "type": "rising"
+            },
+            {
+              "keyword": "kako zara",
+              "value": 2050,
+              "type": "rising"
+            },
+            {
+              "keyword": "google voice",
+              "value": 37,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Voice Actors and Characters",
+          "keywords": [
+            {
+              "keyword": "kristen bell",
+              "value": 750,
+              "type": "rising"
+            },
+            {
+              "keyword": "husk voice actor",
+              "value": 700,
+              "type": "rising"
+            },
+            {
+              "keyword": "voice actor",
+              "value": 48,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Voice Related Queries",
+          "keywords": [
+            {
+              "keyword": "how to set up google voice",
+              "value": 17,
+              "type": "top"
+            },
+            {
+              "keyword": "how to change apple maps voice",
+              "value": 16,
+              "type": "top"
+            },
+            {
+              "keyword": "voice chat",
+              "value": 12,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Character Analysis",
+      "name_zh": "角色分析",
+      "score": 80,
+      "keywords_count": 21,
+      "rising_count": 5,
+      "top_count": 16,
+      "avg_rising_growth": 1500,
+      "avg_top_score": 39,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题内容丰富，适合建立角色分析平台",
+      "subthemes": [
+        {
+          "name": "Fictional Characters",
+          "keywords": [
+            {
+              "keyword": "robert duvall godfather character",
+              "value": 5600,
+              "type": "rising"
+            },
+            {
+              "keyword": "which fictional character originated in the imagination of author mary shelley?",
+              "value": 3100,
+              "type": "rising"
+            },
+            {
+              "keyword": "robert duvall apocalypse now character",
+              "value": 2700,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Character Types",
+          "keywords": [
+            {
+              "keyword": "ai character",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "main character",
+              "value": 39,
+              "type": "top"
+            },
+            {
+              "keyword": "anime character",
+              "value": 24,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Assistant and Support",
+      "name_zh": "助手和支持",
+      "score": 80,
+      "keywords_count": 20,
+      "rising_count": 15,
+      "top_count": 5,
+      "avg_rising_growth": 21250,
+      "avg_top_score": 100,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及各种助手和支持服务，适合建立专业助手或客服平台",
+      "subthemes": [
+        {
+          "name": "Bank Assistant Vacancies",
+          "keywords": [
+            {
+              "keyword": "rbi bank assistant vacancy",
+              "value": 21250,
+              "type": "rising"
+            },
+            {
+              "keyword": "rbi assistant vacancy",
+              "value": 2500,
+              "type": "rising"
+            },
+            {
+              "keyword": "rbi assistant apply",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "General Assistant Information",
+          "keywords": [
+            {
+              "keyword": "assistant to a bartender",
+              "value": 1500,
+              "type": "rising"
+            },
+            {
+              "keyword": "daily horoscope today",
+              "value": 1500,
+              "type": "rising"
+            },
+            {
+              "keyword": "assistant to a bartender",
+              "value": 1500,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Assistant Services",
+          "keywords": [
+            {
+              "keyword": "home assistant",
+              "value": 98,
+              "type": "top"
+            },
+            {
+              "keyword": "google assistant",
+              "value": 32,
+              "type": "top"
+            },
+            {
+              "keyword": "virtual assistant",
+              "value": 26,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Financial Advisors",
+      "name_zh": "财务顾问",
+      "score": 80,
+      "keywords_count": 15,
+      "rising_count": 9,
+      "top_count": 6,
+      "avg_rising_growth": 100,
+      "avg_top_score": 40,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及财务顾问信息，适合制作相关内容网站",
+      "subthemes": [
+        {
+          "name": "Advisor Logins",
+          "keywords": [
+            {
+              "keyword": "beneva advisor login",
+              "value": 80,
+              "type": "rising"
+            },
+            {
+              "keyword": "empire life advisor login",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "pacific life advisor login",
+              "value": 60,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Advisor Services",
+          "keywords": [
+            {
+              "keyword": "finance advisor",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "student advisor",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "advisor financial",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Promo Codes",
+      "name_zh": "促销代码",
+      "score": 80,
+      "keywords_count": 10,
+      "rising_count": 7,
+      "top_count": 3,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 50,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题有一定增长，适合提供促销代码查询服务。",
+      "subthemes": [
+        {
+          "name": "Event Codes",
+          "keywords": [
+            {
+              "keyword": "j cole presale code",
+              "value": 6200,
+              "type": "rising"
+            },
+            {
+              "keyword": "hilary duff presale code",
+              "value": 1100,
+              "type": "rising"
+            },
+            {
+              "keyword": "netflix error code tvq-pb-101",
+              "value": 500,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Color Finders and Fonts",
+      "name_zh": "颜色查找器和字体",
+      "score": 80,
+      "keywords_count": 15,
+      "rising_count": 5,
+      "top_count": 10,
+      "avg_rising_growth": 100,
+      "avg_top_score": 67,
+      "search_intent": "工具查询",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题关键词数量适中，增长率较高，适合提供颜色查找器和字体工具。",
+      "subthemes": [
+        {
+          "name": "Color Finders",
+          "keywords": [
+            {
+              "keyword": "pantone colour finder",
+              "value": 250,
+              "type": "rising"
+            },
+            {
+              "keyword": "kaaba finder",
+              "value": 250,
+              "type": "rising"
+            },
+            {
+              "keyword": "qibla direction",
+              "value": 80,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Fonts",
+          "keywords": [
+            {
+              "keyword": "download font",
+              "value": 76,
+              "type": "top"
+            },
+            {
+              "keyword": "what is font",
+              "value": 71,
+              "type": "top"
+            },
+            {
+              "keyword": "free font",
+              "value": 67,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Connectors and Connectors",
+      "name_zh": "连接器和连接器",
+      "score": 80,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 70,
+      "avg_top_score": 67,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及连接器和连接器相关的信息查询，适合建立电子元件或工程知识网站",
+      "subthemes": [
+        {
+          "name": "Health Connectors",
+          "keywords": [
+            {
+              "keyword": "masshealth connector",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "ma health connector login",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "health connector login",
+              "value": 60,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "General Connectors",
+          "keywords": [
+            {
+              "keyword": "cable connector",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "wire connector",
+              "value": 69,
+              "type": "top"
+            },
+            {
+              "keyword": "female connector",
+              "value": 67,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Specific Connectors",
+          "keywords": [
+            {
+              "keyword": "usb connector",
+              "value": 41,
+              "type": "top"
+            },
+            {
+              "keyword": "pipe connector",
+              "value": 38,
+              "type": "top"
+            },
+            {
+              "keyword": "battery connector",
+              "value": 35,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crawlers and Crawler Toys",
+      "name_zh": "爬虫和爬虫玩具",
+      "score": 80,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 70,
+      "avg_top_score": 67,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及爬虫和爬虫玩具相关的信息查询，适合建立玩具或模型收藏网站",
+      "subthemes": [
+        {
+          "name": "Dungeon Crawler Toys",
+          "keywords": [
+            {
+              "keyword": "dungeon crawler carl toys",
+              "value": 100,
+              "type": "rising"
+            },
+            {
+              "keyword": "dungeon crawler carl action figures",
+              "value": 80,
+              "type": "rising"
+            },
+            {
+              "keyword": "dungeon crawler carl book 9",
+              "value": 50,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "General Crawler Toys",
+          "keywords": [
+            {
+              "keyword": "dungeon crawler",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "the crawler",
+              "value": 39,
+              "type": "top"
+            },
+            {
+              "keyword": "rc crawler",
+              "value": 33,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Specific Crawler Toys",
+          "keywords": [
+            {
+              "keyword": "crawler excavator",
+              "value": 22,
+              "type": "top"
+            },
+            {
+              "keyword": "rock crawler",
+              "value": 14,
+              "type": "top"
+            },
+            {
+              "keyword": "dungeon crawler carl book",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emoji Usage",
+      "name_zh": "表情符号使用",
+      "score": 80,
+      "keywords_count": 18,
+      "rising_count": 7,
+      "top_count": 11,
+      "avg_rising_growth": 200,
+      "avg_top_score": 72,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "表情符号使用需求广泛，适合提供表情符号相关内容",
+      "subthemes": [
+        {
+          "name": "Specific Emoji",
+          "keywords": [
+            {
+              "keyword": "heart emoji",
+              "value": 94,
+              "type": "top"
+            },
+            {
+              "keyword": "emoji meaning",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "emoji copy",
+              "value": 83,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Holiday Emojis",
+          "keywords": [
+            {
+              "keyword": "ramadan emoji",
+              "value": 750,
+              "type": "rising"
+            },
+            {
+              "keyword": "chinese new year emoji",
+              "value": 400,
+              "type": "top"
+            },
+            {
+              "keyword": "emoji kitchen gboard",
+              "value": 150,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer Monitors",
+      "name_zh": "电脑显示器",
+      "score": 80,
+      "keywords_count": 24,
+      "rising_count": 2,
+      "top_count": 17,
+      "avg_rising_growth": 0,
+      "avg_top_score": 39,
+      "search_intent": "交易意图",
+      "site_type": "电商站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题以信息查询和交易为主，适合建立电脑显示器相关的电商平台",
+      "subthemes": [
+        {
+          "name": "Gaming Monitors",
+          "keywords": [
+            {
+              "keyword": "gaming monitor",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "how to choose a gaming monitor",
+              "value": 50,
+              "type": "top"
+            },
+            {
+              "keyword": "monitor pc",
+              "value": 39,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Monitor Brands",
+          "keywords": [
+            {
+              "keyword": "monitor samsung",
+              "value": 33,
+              "type": "top"
+            },
+            {
+              "keyword": "dell monitor",
+              "value": 30,
+              "type": "top"
+            },
+            {
+              "keyword": "lg monitor",
+              "value": 27,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Optimizers",
+      "name_zh": "优化器",
+      "score": 80,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 70,
+      "search_intent": "信息意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题搜索量增长迅速，适合建立优化器相关的工具网站",
+      "subthemes": [
+        {
+          "name": "Performance Optimizers",
+          "keywords": [
+            {
+              "keyword": "amd 3d v-cache performance optimizer driver",
+              "value": 350,
+              "type": "rising"
+            },
+            {
+              "keyword": "last mile optimizer gmbh",
+              "value": 250,
+              "type": "rising"
+            },
+            {
+              "keyword": "sgd optimizer",
+              "value": 70,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "List Creation and Management",
+      "name_zh": "列表创建与管理",
+      "score": 80,
+      "keywords_count": 14,
+      "rising_count": 0,
+      "top_count": 14,
+      "avg_top_score": 8,
+      "search_intent": "信息意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及多种列表创建和管理需求，适合提供相关工具或资源。",
+      "subthemes": [
+        {
+          "name": "Voter Lists",
+          "keywords": [
+            {
+              "keyword": "voter list download",
+              "value": 9,
+              "type": "top"
+            },
+            {
+              "keyword": "voter list 2002",
+              "value": 7,
+              "type": "top"
+            },
+            {
+              "keyword": "voter list 2003 uttar pradesh",
+              "value": 3,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Event Lists",
+          "keywords": [
+            {
+              "keyword": "holiday list 2026",
+              "value": 7,
+              "type": "top"
+            },
+            {
+              "keyword": "shillong teer list",
+              "value": 7,
+              "type": "top"
+            },
+            {
+              "keyword": "shillong teer result list",
+              "value": 5,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Miscellaneous Lists",
+          "keywords": [
+            {
+              "keyword": "bucket list",
+              "value": 9,
+              "type": "top"
+            },
+            {
+              "keyword": "demon list",
+              "value": 8,
+              "type": "top"
+            },
+            {
+              "keyword": "epstein list names",
+              "value": 5,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Illustration",
+      "name_zh": "插画",
+      "score": 80,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 25,
+      "avg_top_score": 25,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题搜索量稳定，适合做插画教程和资源分享站",
+      "subthemes": [
+        {
+          "name": "Digital Illustration",
+          "keywords": [
+            {
+              "keyword": "digital illustration",
+              "value": 25,
+              "type": "top"
+            },
+            {
+              "keyword": "ai illustration",
+              "value": 14,
+              "type": "top"
+            },
+            {
+              "keyword": "first partner illustration collection",
+              "value": 3,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Illustration Boards",
+          "keywords": [
+            {
+              "keyword": "illustration board",
+              "value": 19,
+              "type": "top"
+            },
+            {
+              "keyword": "1/8 illustration board",
+              "value": 3,
+              "type": "top"
+            },
+            {
+              "keyword": "1/4 illustration board",
+              "value": 2,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Illustration Collections",
+          "keywords": [
+            {
+              "keyword": "one piece illustration box",
+              "value": 4,
+              "type": "top"
+            },
+            {
+              "keyword": "pokemon first partner illustration collection",
+              "value": 1,
+              "type": "top"
+            },
+            {
+              "keyword": "victini illustration collection",
+              "value": 1,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pattern Design",
+      "name_zh": "图案设计",
+      "score": 80,
+      "keywords_count": 7,
+      "rising_count": 1,
+      "top_count": 6,
+      "avg_rising_growth": 60,
+      "avg_top_score": 100,
+      "search_intent": "信息搜索",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "图案设计领域有稳定的搜索需求，适合建立图案设计教程和资源网站",
+      "subthemes": [
+        {
+          "name": "Pattern Design",
+          "keywords": [
+            {
+              "keyword": "pattern design",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "granny square pattern",
+              "value": 4,
+              "type": "top"
+            },
+            {
+              "keyword": "herringbone pattern",
+              "value": 3,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portrait and Photography",
+      "name_zh": "肖像与摄影",
+      "score": 80,
+      "keywords_count": 14,
+      "rising_count": 0,
+      "top_count": 14,
+      "avg_rising_growth": 0,
+      "avg_top_score": 70,
+      "search_intent": "信息搜索",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "肖像和摄影领域有稳定的搜索需求，适合建立摄影教程和资源网站",
+      "subthemes": [
+        {
+          "name": "Portrait Photography",
+          "keywords": [
+            {
+              "keyword": "self portrait",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "portrait photo",
+              "value": 88,
+              "type": "top"
+            },
+            {
+              "keyword": "portrait size",
+              "value": 64,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Technical Components",
+      "name_zh": "技术组件",
+      "score": 80,
+      "keywords_count": 20,
+      "rising_count": 8,
+      "top_count": 12,
+      "avg_rising_growth": 60,
+      "avg_top_score": 63,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及技术组件，适合建立提供技术组件信息和技术知识分享的内容站",
+      "subthemes": [
+        {
+          "name": "Processors",
+          "keywords": [
+            {
+              "keyword": "processor",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "intel processor",
+              "value": 73,
+              "type": "top"
+            },
+            {
+              "keyword": "best processor",
+              "value": 68,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Receivers",
+          "keywords": [
+            {
+              "keyword": "receiver",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "wireless receiver",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "bluetooth receiver",
+              "value": 78,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Recorders",
+          "keywords": [
+            {
+              "keyword": "recorder",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "voice recorder",
+              "value": 78,
+              "type": "top"
+            },
+            {
+              "keyword": "video recorder",
+              "value": 55,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sample Papers and Educational Resources",
+      "name_zh": "样卷和教育资源",
+      "score": 80,
+      "keywords_count": 30,
+      "rising_count": 19,
+      "top_count": 11,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 36,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及教育资源和样卷，适合建立提供教育资源下载和分享的网站",
+      "subthemes": [
+        {
+          "name": "Sample Papers",
+          "keywords": [
+            {
+              "keyword": "sample",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "cbse sample paper",
+              "value": 31,
+              "type": "top"
+            },
+            {
+              "keyword": "english sample paper",
+              "value": 22,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Broadcasting and Media Sender",
+      "name_zh": "广播和媒体发送者",
+      "score": 80,
+      "keywords_count": 7,
+      "rising_count": 5,
+      "top_count": 7,
+      "avg_rising_growth": 500,
+      "avg_top_score": 500,
+      "search_intent": "导航意图",
+      "site_type": "导航站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及广播和媒体发送者，适合建立提供媒体节目时间和频道信息的网站",
+      "subthemes": [
+        {
+          "name": "Broadcasting Channels",
+          "keywords": [
+            {
+              "keyword": "galatasaray juventus welcher sender",
+              "value": 13600,
+              "type": "rising"
+            },
+            {
+              "keyword": "galatasaray juventus hangi kanalda",
+              "value": 3050,
+              "type": "rising"
+            },
+            {
+              "keyword": "champions league heute",
+              "value": 2400,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sender Queries",
+      "name_zh": "发送者查询",
+      "score": 80,
+      "keywords_count": 24,
+      "rising_count": 1,
+      "top_count": 23,
+      "avg_rising_growth": 180,
+      "avg_top_score": 50,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题以查询为主，适合建立提供发送者信息的内容站",
+      "subthemes": [
+        {
+          "name": "Email Sender",
+          "keywords": [
+            {
+              "keyword": "email sender",
+              "value": 43,
+              "type": "top"
+            },
+            {
+              "keyword": "mail sender",
+              "value": 23,
+              "type": "top"
+            },
+            {
+              "keyword": "sender address",
+              "value": 20,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "TV Sender",
+          "keywords": [
+            {
+              "keyword": "tv sender",
+              "value": 36,
+              "type": "top"
+            },
+            {
+              "keyword": "fernsehprogramm",
+              "value": 18,
+              "type": "top"
+            },
+            {
+              "keyword": "fernsehprogramm heute",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Message Sender",
+          "keywords": [
+            {
+              "keyword": "message sender",
+              "value": 27,
+              "type": "top"
+            },
+            {
+              "keyword": "whatsapp sender",
+              "value": 18,
+              "type": "top"
+            },
+            {
+              "keyword": "sms sender",
+              "value": 9,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Video Content",
+      "name_zh": "视频内容",
+      "score": 80,
+      "keywords_count": 25,
+      "rising_count": 4,
+      "top_count": 15,
+      "avg_rising_growth": 1500,
+      "avg_top_score": 69,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告/订阅制",
+      "opportunity_analysis": "该主题搜索量较大，适合提供视频内容",
+      "subthemes": [
+        {
+          "name": "Sports Videos",
+          "keywords": [
+            {
+              "keyword": "video",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "michael jordan video",
+              "value": 1500,
+              "type": "rising"
+            },
+            {
+              "keyword": "youtube video",
+              "value": 69,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "General Video Content",
+          "keywords": [
+            {
+              "keyword": "video",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "youtube video download free app",
+              "value": 350,
+              "type": "rising"
+            },
+            {
+              "keyword": "video downloader",
+              "value": 31,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speech Technology",
+      "name_zh": "语音技术",
+      "score": 80,
+      "keywords_count": 15,
+      "rising_count": 8,
+      "top_count": 7,
+      "avg_rising_growth": 50,
+      "avg_top_score": 40,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及语音技术相关产品和服务，适合建立语音技术产品推荐网站",
+      "subthemes": [
+        {
+          "name": "Text to Speech",
+          "keywords": [
+            {
+              "keyword": "text to speech",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "ai text to speech",
+              "value": 17,
+              "type": "top"
+            },
+            {
+              "keyword": "google text to speech",
+              "value": 10,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Speech Therapy",
+          "keywords": [
+            {
+              "keyword": "speech therapy",
+              "value": 59,
+              "type": "top"
+            },
+            {
+              "keyword": "speech pathologist",
+              "value": 14,
+              "type": "top"
+            },
+            {
+              "keyword": "speech therapist",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tools and Utilities",
+      "name_zh": "工具和实用工具",
+      "score": 80,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题关键词相关度较高，且搜索量增长迅速，适合做工具和实用工具的电子商务网站",
+      "subthemes": [
+        {
+          "name": "Hand Tools",
+          "keywords": [
+            {
+              "keyword": "happenstance",
+              "value": 2850,
+              "type": "top"
+            },
+            {
+              "keyword": "brays tool",
+              "value": 2600,
+              "type": "top"
+            },
+            {
+              "keyword": "tool sphere residency",
+              "value": 850,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Power Tools",
+          "keywords": [
+            {
+              "keyword": "tool set",
+              "value": 85,
+              "type": "top"
+            },
+            {
+              "keyword": "tool box",
+              "value": 71,
+              "type": "top"
+            },
+            {
+              "keyword": "tool kit",
+              "value": 65,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Software Tools",
+          "keywords": [
+            {
+              "keyword": "ai tool",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "tool set",
+              "value": 85,
+              "type": "top"
+            },
+            {
+              "keyword": "tool box",
+              "value": 71,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Writing and Content Creation",
+      "name_zh": "写作与内容创作",
+      "score": 80,
+      "keywords_count": 20,
+      "rising_count": 10,
+      "top_count": 10,
+      "avg_rising_growth": 3000,
+      "avg_top_score": 50,
+      "search_intent": "信息查询",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及写作和内容创作相关工具和资源，适合建立内容创作社区或资源网站",
+      "subthemes": [
+        {
+          "name": "Writing Tools",
+          "keywords": [
+            {
+              "keyword": "writer",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "ai writer",
+              "value": 27,
+              "type": "top"
+            },
+            {
+              "keyword": "libreoffice writer",
+              "value": 7,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Crossword Clues",
+          "keywords": [
+            {
+              "keyword": "tartuffe writer crossword clue",
+              "value": 7800,
+              "type": "rising"
+            },
+            {
+              "keyword": "over there writer crossword clue",
+              "value": 6150,
+              "type": "rising"
+            },
+            {
+              "keyword": "wagner work crossword",
+              "value": 2350,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Content Creation",
+          "keywords": [
+            {
+              "keyword": "content writer",
+              "value": 9,
+              "type": "top"
+            },
+            {
+              "keyword": "medical writer",
+              "value": 50,
+              "type": "top"
+            },
+            {
+              "keyword": "ai email writer",
+              "value": 40,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chart Information",
+      "name_zh": "图表信息",
+      "score": 75,
+      "keywords_count": 19,
+      "rising_count": 7,
+      "top_count": 12,
+      "avg_rising_growth": 500,
+      "avg_top_score": 54,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题信息丰富，适合建立图表信息平台",
+      "subthemes": [
+        {
+          "name": "Financial Charts",
+          "keywords": [
+            {
+              "keyword": "nifty 50 chart live",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "sensex today live chart",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "nifty 50 chart",
+              "value": 50,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "General Charts",
+          "keywords": [
+            {
+              "keyword": "chart",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "size chart",
+              "value": 54,
+              "type": "top"
+            },
+            {
+              "keyword": "my chart",
+              "value": 42,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Best Products and Services",
+      "name_zh": "最佳产品和服务的推荐",
+      "score": 75,
+      "keywords_count": 20,
+      "rising_count": 0,
+      "top_count": 20,
+      "avg_top_score": 6,
+      "search_intent": "交易意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及最佳产品和服务的推荐，适合建立产品评测或推荐网站",
+      "subthemes": [
+        {
+          "name": "Best Electronics",
+          "keywords": [
+            {
+              "keyword": "best buy",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "best smart locks",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "best laptops for students",
+              "value": 6,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Best Food and Drink",
+          "keywords": [
+            {
+              "keyword": "best chinese food near me",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "best thai food near me",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "best bratwurst near me",
+              "value": 6,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Best Health and Fitness",
+          "keywords": [
+            {
+              "keyword": "best protein bars",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "best workout apps",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "best face masks for acne",
+              "value": 6,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Action Cameras",
+      "name_zh": "运动相机",
+      "score": 75,
+      "keywords_count": 6,
+      "rising_count": 2,
+      "top_count": 4,
+      "avg_rising_growth": 50,
+      "avg_top_score": 48,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及运动相机产品，适合制作相关产品推荐网站",
+      "subthemes": [
+        {
+          "name": "Best Action Cameras",
+          "keywords": [
+            {
+              "keyword": "best budget action cameras",
+              "value": 48,
+              "type": "top"
+            },
+            {
+              "keyword": "action cameras",
+              "value": 22,
+              "type": "top"
+            },
+            {
+              "keyword": "action camera",
+              "value": 22,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coloring Pages",
+      "name_zh": "填色页面",
+      "score": 75,
+      "keywords_count": 15,
+      "rising_count": 10,
+      "top_count": 5,
+      "avg_rising_growth": 200,
+      "avg_top_score": 40,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题有一定增长，适合提供各种主题的填色页面。",
+      "subthemes": [
+        {
+          "name": "Holiday Themes",
+          "keywords": [
+            {
+              "keyword": "chinese new year dragon coloring page",
+              "value": 400,
+              "type": "rising"
+            },
+            {
+              "keyword": "shamrock coloring page",
+              "value": 350,
+              "type": "rising"
+            },
+            {
+              "keyword": "pot of gold coloring page",
+              "value": 300,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Constructors and Construction",
+      "name_zh": "构造函数和建筑",
+      "score": 75,
+      "keywords_count": 25,
+      "rising_count": 0,
+      "top_count": 25,
+      "avg_rising_growth": 0,
+      "avg_top_score": 40,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及构造函数和建筑相关的信息查询，适合建立编程语言教程或建筑知识网站",
+      "subthemes": [
+        {
+          "name": "Programming Constructors",
+          "keywords": [
+            {
+              "keyword": "constructor",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "java constructor",
+              "value": 62,
+              "type": "top"
+            },
+            {
+              "keyword": "c++",
+              "value": 40,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "General Constructors",
+          "keywords": [
+            {
+              "keyword": "what is constructor",
+              "value": 67,
+              "type": "top"
+            },
+            {
+              "keyword": "class constructor",
+              "value": 67,
+              "type": "top"
+            },
+            {
+              "keyword": "default constructor",
+              "value": 29,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Specific Constructors",
+          "keywords": [
+            {
+              "keyword": "constructor c++",
+              "value": 42,
+              "type": "top"
+            },
+            {
+              "keyword": "constructor in java",
+              "value": 34,
+              "type": "top"
+            },
+            {
+              "keyword": "constructor c#",
+              "value": 25,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Enhancement Tools",
+      "name_zh": "增强工具",
+      "score": 75,
+      "keywords_count": 21,
+      "rising_count": 8,
+      "top_count": 13,
+      "avg_rising_growth": 50,
+      "avg_top_score": 59,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告/联盟营销",
+      "opportunity_analysis": "增强工具需求稳定，适合提供图片、视频增强工具",
+      "subthemes": [
+        {
+          "name": "Image Enhancement",
+          "keywords": [
+            {
+              "keyword": "image enhancer",
+              "value": 59,
+              "type": "top"
+            },
+            {
+              "keyword": "photo enhancer",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "fine grain image enhancer",
+              "value": 50,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Video Enhancement",
+          "keywords": [
+            {
+              "keyword": "video enhancer",
+              "value": 20,
+              "type": "top"
+            },
+            {
+              "keyword": "ai video enhancer",
+              "value": 7,
+              "type": "top"
+            },
+            {
+              "keyword": "free video enhancer",
+              "value": 8,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Product and Equipment Makers",
+      "name_zh": "产品和设备制造商",
+      "score": 75,
+      "keywords_count": 23,
+      "rising_count": 3,
+      "top_count": 20,
+      "avg_rising_growth": 70,
+      "avg_top_score": 38,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及各种产品和设备的制造商，适合提供相关产品信息或购买指南。",
+      "subthemes": [
+        {
+          "name": "Coffee Makers",
+          "keywords": [
+            {
+              "keyword": "coffee maker",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "how to descale coffee maker",
+              "value": 59,
+              "type": "top"
+            },
+            {
+              "keyword": "waffle maker",
+              "value": 38,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Miscellaneous Makers",
+          "keywords": [
+            {
+              "keyword": "esignature maker",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "playstation maker",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "scene maker",
+              "value": 70,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Equipment Makers",
+          "keywords": [
+            {
+              "keyword": "ice maker",
+              "value": 37,
+              "type": "top"
+            },
+            {
+              "keyword": "video maker",
+              "value": 17,
+              "type": "top"
+            },
+            {
+              "keyword": "logo maker",
+              "value": 17,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Image Search",
+      "name_zh": "图片搜索",
+      "score": 75,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 1500,
+      "avg_top_score": 75,
+      "search_intent": "导航意图",
+      "site_type": "导航站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题搜索量大，适合做图片搜索导航站",
+      "subthemes": [
+        {
+          "name": "General Image Search",
+          "keywords": [
+            {
+              "keyword": "image google",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "image search google",
+              "value": 22,
+              "type": "top"
+            },
+            {
+              "keyword": "search image",
+              "value": 75,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "AI Image Search",
+          "keywords": [
+            {
+              "keyword": "ai image",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "image generator ai",
+              "value": 31,
+              "type": "top"
+            },
+            {
+              "keyword": "image ai generator",
+              "value": 30,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Image Conversion",
+          "keywords": [
+            {
+              "keyword": "pdf to image",
+              "value": 51,
+              "type": "top"
+            },
+            {
+              "keyword": "image converter",
+              "value": 22,
+              "type": "top"
+            },
+            {
+              "keyword": "image to text",
+              "value": 21,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portals and Logins",
+      "name_zh": "门户网站与登录",
+      "score": 75,
+      "keywords_count": 14,
+      "rising_count": 7,
+      "top_count": 7,
+      "avg_rising_growth": 200,
+      "avg_top_score": 69,
+      "search_intent": "导航意图",
+      "site_type": "导航站",
+      "monetization": "广告",
+      "opportunity_analysis": "门户网站和登录页面有稳定的搜索需求，适合建立门户网站导航网站",
+      "subthemes": [
+        {
+          "name": "Portals",
+          "keywords": [
+            {
+              "keyword": "cba portal",
+              "value": 400,
+              "type": "rising"
+            },
+            {
+              "keyword": "cba knec portal",
+              "value": 400,
+              "type": "rising"
+            },
+            {
+              "keyword": "knec portal",
+              "value": 350,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resource Management",
+      "name_zh": "资源管理",
+      "score": 75,
+      "keywords_count": 15,
+      "rising_count": 7,
+      "top_count": 8,
+      "avg_rising_growth": 60,
+      "avg_top_score": 60,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及资源管理，适合建立提供资源管理和人力资源信息的内容站",
+      "subthemes": [
+        {
+          "name": "Human Resources",
+          "keywords": [
+            {
+              "keyword": "human resources",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "human resources software",
+              "value": 39,
+              "type": "top"
+            },
+            {
+              "keyword": "natural resources",
+              "value": 34,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Resource Planning",
+          "keywords": [
+            {
+              "keyword": "classroom center",
+              "value": 60,
+              "type": "rising"
+            },
+            {
+              "keyword": "curriculum resources",
+              "value": 60,
+              "type": "rising"
+            },
+            {
+              "keyword": "greatland resources share price",
+              "value": 60,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Resource Types",
+          "keywords": [
+            {
+              "keyword": "energy resources",
+              "value": 12,
+              "type": "top"
+            },
+            {
+              "keyword": "learning resources",
+              "value": 12,
+              "type": "top"
+            },
+            {
+              "keyword": "community resources",
+              "value": 9,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Song Queries",
+      "name_zh": "歌曲查询",
+      "score": 75,
+      "keywords_count": 21,
+      "rising_count": 4,
+      "top_count": 17,
+      "avg_rising_growth": 1650,
+      "avg_top_score": 35,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题以歌曲查询为主，适合建立提供歌曲信息的内容站",
+      "subthemes": [
+        {
+          "name": "Eurovision Song",
+          "keywords": [
+            {
+              "keyword": "look mum no computer eurovision song",
+              "value": 8000,
+              "type": "rising"
+            },
+            {
+              "keyword": "annie song brown university",
+              "value": 1650,
+              "type": "rising"
+            },
+            {
+              "keyword": "sing meinen song 2026",
+              "value": 1000,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Popular Songs",
+          "keywords": [
+            {
+              "keyword": "sing meinen song",
+              "value": 700,
+              "type": "top"
+            },
+            {
+              "keyword": "different strokes theme song",
+              "value": 700,
+              "type": "top"
+            },
+            {
+              "keyword": "shivaji maharaj song",
+              "value": 600,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Song Lyrics",
+          "keywords": [
+            {
+              "keyword": "song lyrics",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "mp3 song",
+              "value": 39,
+              "type": "top"
+            },
+            {
+              "keyword": "songs",
+              "value": 35,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data Verification Tools",
+      "name_zh": "数据验证工具",
+      "score": 75,
+      "keywords_count": 25,
+      "rising_count": 6,
+      "top_count": 9,
+      "avg_rising_growth": 8050,
+      "avg_top_score": 50,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告/联盟营销",
+      "opportunity_analysis": "该主题搜索量适中，适合提供数据验证服务",
+      "subthemes": [
+        {
+          "name": "Email Verification",
+          "keywords": [
+            {
+              "keyword": "verifier",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "verifier email",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "zerobounce email verifier",
+              "value": 130,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "General Verification",
+          "keywords": [
+            {
+              "keyword": "have i been pwned",
+              "value": 8050,
+              "type": "rising"
+            },
+            {
+              "keyword": "verifier orthographe texte",
+              "value": 4150,
+              "type": "rising"
+            },
+            {
+              "keyword": "verifier ticket",
+              "value": 41,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Starter Sets",
+      "name_zh": "入门套装",
+      "score": 75,
+      "keywords_count": 15,
+      "rising_count": 10,
+      "top_count": 5,
+      "avg_rising_growth": 300,
+      "avg_top_score": 50,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及多种入门套装，适合建立相关产品推荐网站",
+      "subthemes": [
+        {
+          "name": "Gundam Starter Sets",
+          "keywords": [
+            {
+              "keyword": "gundam assemble starter set",
+              "value": 400,
+              "type": "rising"
+            },
+            {
+              "keyword": "starter home crossword clue",
+              "value": 300,
+              "type": "rising"
+            },
+            {
+              "keyword": "hvornår starter ramadan 2026",
+              "value": 300,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Sourdough Starter",
+          "keywords": [
+            {
+              "keyword": "oregon trail sourdough starter",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "how to make sourdough starter",
+              "value": 53,
+              "type": "top"
+            },
+            {
+              "keyword": "sourdough",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testing Tools",
+      "name_zh": "测试工具",
+      "score": 75,
+      "keywords_count": 15,
+      "rising_count": 7,
+      "top_count": 10,
+      "avg_rising_growth": 50,
+      "avg_top_score": 50,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及测试工具，适合建立测试工具网站",
+      "subthemes": [
+        {
+          "name": "Battery Testing",
+          "keywords": [
+            {
+              "keyword": "battery tester",
+              "value": 98,
+              "type": "top"
+            },
+            {
+              "keyword": "battery tester for small batteries",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "battery tester for small batteries",
+              "value": 60,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Regex Testing",
+          "keywords": [
+            {
+              "keyword": "online regex tester",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "regex tester",
+              "value": 50,
+              "type": "top"
+            },
+            {
+              "keyword": "robots.txt tester",
+              "value": 60,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Top Models and Lists",
+      "name_zh": "顶级模特和榜单",
+      "score": 75,
+      "keywords_count": 20,
+      "rising_count": 10,
+      "top_count": 10,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 50,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题关键词相关度较高，且搜索量增长迅速，适合做时尚和娱乐相关的内容网站",
+      "subthemes": [
+        {
+          "name": "Fashion Models",
+          "keywords": [
+            {
+              "keyword": "shandi america's next top model",
+              "value": 3600,
+              "type": "top"
+            },
+            {
+              "keyword": "jay manuel",
+              "value": 1900,
+              "type": "top"
+            },
+            {
+              "keyword": "miss j alexander",
+              "value": 1600,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Sports Rankings",
+          "keywords": [
+            {
+              "keyword": "ap top 25 basketball",
+              "value": 200,
+              "type": "top"
+            },
+            {
+              "keyword": "champions league top scorers",
+              "value": 200,
+              "type": "top"
+            },
+            {
+              "keyword": "ap top 25",
+              "value": 180,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "General Lists",
+          "keywords": [
+            {
+              "keyword": "top movies",
+              "value": 22,
+              "type": "top"
+            },
+            {
+              "keyword": "top universities in the world",
+              "value": 8,
+              "type": "top"
+            },
+            {
+              "keyword": "top tourist attractions in paris",
+              "value": 8,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chat Platforms",
+      "name_zh": "聊天平台",
+      "score": 70,
+      "keywords_count": 14,
+      "rising_count": 1,
+      "top_count": 14,
+      "avg_rising_growth": 150,
+      "avg_top_score": 6,
+      "search_intent": "工具查询",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题工具性强，适合提供聊天平台相关工具和资源",
+      "subthemes": [
+        {
+          "name": "Chat Services",
+          "keywords": [
+            {
+              "keyword": "chat",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "gpt chat",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "chat gtp",
+              "value": 6,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Checker Tools",
+      "name_zh": "检查工具",
+      "score": 70,
+      "keywords_count": 19,
+      "rising_count": 7,
+      "top_count": 12,
+      "avg_rising_growth": 500,
+      "avg_top_score": 50,
+      "search_intent": "工具查询",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题工具性强，适合提供检查工具相关资源",
+      "subthemes": [
+        {
+          "name": "Result Checkers",
+          "keywords": [
+            {
+              "keyword": "checker",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "waec result checker",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "iban checker",
+              "value": 60,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Builders and Tools",
+      "name_zh": "构建工具",
+      "score": 70,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 50,
+      "avg_top_score": 100,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及构建工具和资源，适合建立在线构建平台或工具网站",
+      "subthemes": [
+        {
+          "name": "Website Builders",
+          "keywords": [
+            {
+              "keyword": "website builder",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "ai builder",
+              "value": 77,
+              "type": "top"
+            },
+            {
+              "keyword": "resume builder",
+              "value": 61,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "App Builders",
+          "keywords": [
+            {
+              "keyword": "app builder",
+              "value": 37,
+              "type": "top"
+            },
+            {
+              "keyword": "social app builder",
+              "value": 40,
+              "type": "top"
+            },
+            {
+              "keyword": "deepwoken builder",
+              "value": 40,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Report Builders",
+          "keywords": [
+            {
+              "keyword": "power bi report builder",
+              "value": 50,
+              "type": "top"
+            },
+            {
+              "keyword": "teal resume builder",
+              "value": 40,
+              "type": "top"
+            },
+            {
+              "keyword": "deepwoken wiki",
+              "value": 40,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anime Series",
+      "name_zh": "动漫系列",
+      "score": 70,
+      "keywords_count": 7,
+      "rising_count": 4,
+      "top_count": 3,
+      "avg_rising_growth": 50,
+      "avg_top_score": 56,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及热门动漫系列，适合制作相关内容网站",
+      "subthemes": [
+        {
+          "name": "Anime Paradox",
+          "keywords": [
+            {
+              "keyword": "anime paradox tier list",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "code anime paradox",
+              "value": 50,
+              "type": "top"
+            },
+            {
+              "keyword": "anime paradox",
+              "value": 50,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Other Anime Series",
+          "keywords": [
+            {
+              "keyword": "anime final quest",
+              "value": 50,
+              "type": "top"
+            },
+            {
+              "keyword": "anime girl",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "best anime",
+              "value": 94,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Energy Price Comparators",
+      "name_zh": "能源价格比较器",
+      "score": 70,
+      "keywords_count": 10,
+      "rising_count": 7,
+      "top_count": 3,
+      "avg_rising_growth": 2000,
+      "avg_top_score": 50,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题有一定增长，适合提供能源价格比较服务。",
+      "subthemes": [
+        {
+          "name": "Electricity Comparators",
+          "keywords": [
+            {
+              "keyword": "comparator prețuri energie electrică",
+              "value": 22050,
+              "type": "rising"
+            },
+            {
+              "keyword": "kanstul mouthpiece comparator",
+              "value": 4700,
+              "type": "rising"
+            },
+            {
+              "keyword": "online java compiler",
+              "value": 3950,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evaluator Jobs",
+      "name_zh": "评估员工作",
+      "score": 70,
+      "keywords_count": 15,
+      "rising_count": 5,
+      "top_count": 10,
+      "avg_rising_growth": 50,
+      "avg_top_score": 35,
+      "search_intent": "商业调查意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "评估员工作领域有一定需求，适合提供相关职位信息",
+      "subthemes": [
+        {
+          "name": "Search Engine Evaluator",
+          "keywords": [
+            {
+              "keyword": "search engine evaluator",
+              "value": 33,
+              "type": "top"
+            },
+            {
+              "keyword": "search engine evaluator jobs",
+              "value": 10,
+              "type": "top"
+            },
+            {
+              "keyword": "appen search engine evaluator pay",
+              "value": 15200,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Online Evaluator",
+          "keywords": [
+            {
+              "keyword": "online evaluator",
+              "value": 31,
+              "type": "top"
+            },
+            {
+              "keyword": "remote online evaluator",
+              "value": 70,
+              "type": "rising"
+            },
+            {
+              "keyword": "peroptyx map evaluator",
+              "value": 9850,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Interior Design",
+      "name_zh": "室内设计",
+      "score": 70,
+      "keywords_count": 20,
+      "rising_count": 6,
+      "top_count": 14,
+      "avg_rising_growth": 2750,
+      "avg_top_score": 41,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题搜索量大，适合做室内设计教程和资源分享站",
+      "subthemes": [
+        {
+          "name": "Interior Design Styles",
+          "keywords": [
+            {
+              "keyword": "modern interior design",
+              "value": 27,
+              "type": "top"
+            },
+            {
+              "keyword": "home interior design",
+              "value": 38,
+              "type": "top"
+            },
+            {
+              "keyword": "interior design near me",
+              "value": 52,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Interior Design Services",
+          "keywords": [
+            {
+              "keyword": "interior design portfolio examples",
+              "value": 60,
+              "type": "rising"
+            },
+            {
+              "keyword": "interior design internships",
+              "value": 80,
+              "type": "rising"
+            },
+            {
+              "keyword": "interior design near me",
+              "value": 52,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Interior Design Ideas",
+          "keywords": [
+            {
+              "keyword": "interior design ideas",
+              "value": 16,
+              "type": "top"
+            },
+            {
+              "keyword": "interior design for home",
+              "value": 15,
+              "type": "top"
+            },
+            {
+              "keyword": "interior design studio",
+              "value": 14,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Communication Tools",
+      "name_zh": "通讯工具",
+      "score": 70,
+      "keywords_count": 10,
+      "rising_count": 4,
+      "top_count": 6,
+      "avg_rising_growth": 60,
+      "avg_top_score": 60,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及通讯工具，适合建立提供通讯工具信息和教程的内容站",
+      "subthemes": [
+        {
+          "name": "Receivers",
+          "keywords": [
+            {
+              "keyword": "receiver",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "wireless receiver",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "bluetooth receiver",
+              "value": 78,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Responders",
+          "keywords": [
+            {
+              "keyword": "responder",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "how to set vacation responder in gmail",
+              "value": 600,
+              "type": "rising"
+            },
+            {
+              "keyword": "emt salary",
+              "value": 350,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sound Queries",
+      "name_zh": "声音查询",
+      "score": 70,
+      "keywords_count": 21,
+      "rising_count": 6,
+      "top_count": 14,
+      "avg_rising_growth": 5450,
+      "avg_top_score": 74,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题以声音查询为主，适合建立提供声音信息的内容站",
+      "subthemes": [
+        {
+          "name": "Animal Sounds",
+          "keywords": [
+            {
+              "keyword": "what do otters sound like",
+              "value": 5450,
+              "type": "rising"
+            },
+            {
+              "keyword": "what sound does an anteater make",
+              "value": 5350,
+              "type": "rising"
+            },
+            {
+              "keyword": "rabbit call sound",
+              "value": 4900,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "General Sounds",
+          "keywords": [
+            {
+              "keyword": "what is sound",
+              "value": 74,
+              "type": "top"
+            },
+            {
+              "keyword": "sound effect",
+              "value": 43,
+              "type": "top"
+            },
+            {
+              "keyword": "download sound",
+              "value": 29,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Notification Sounds",
+          "keywords": [
+            {
+              "keyword": "fahh notification sound download",
+              "value": 250,
+              "type": "rising"
+            },
+            {
+              "keyword": "sound on",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "notification sound",
+              "value": 10,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Viewer Tools",
+      "name_zh": "查看工具",
+      "score": 70,
+      "keywords_count": 45,
+      "rising_count": 17,
+      "top_count": 18,
+      "avg_rising_growth": 120,
+      "avg_top_score": 70,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告/联盟营销",
+      "opportunity_analysis": "该主题搜索量适中，适合提供查看工具",
+      "subthemes": [
+        {
+          "name": "Document Viewers",
+          "keywords": [
+            {
+              "keyword": "viewer",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "autodesk viewer online",
+              "value": 60,
+              "type": "rising"
+            },
+            {
+              "keyword": "edrawings viewer",
+              "value": 60,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "General Viewers",
+          "keywords": [
+            {
+              "keyword": "viewer",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "jkt48 multi viewer",
+              "value": 180,
+              "type": "rising"
+            },
+            {
+              "keyword": "instagram story viewer online",
+              "value": 80,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Document Viewers",
+          "keywords": [
+            {
+              "keyword": "pdf viewer",
+              "value": 14,
+              "type": "top"
+            },
+            {
+              "keyword": "dwg viewer",
+              "value": 4,
+              "type": "top"
+            },
+            {
+              "keyword": "autodesk viewer",
+              "value": 4,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Social Media Viewers",
+          "keywords": [
+            {
+              "keyword": "instagram story",
+              "value": 62,
+              "type": "top"
+            },
+            {
+              "keyword": "tiktok viewer",
+              "value": 16,
+              "type": "top"
+            },
+            {
+              "keyword": "instagram viewer profile",
+              "value": 7,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Other Viewers",
+          "keywords": [
+            {
+              "keyword": "team viewer",
+              "value": 10,
+              "type": "top"
+            },
+            {
+              "keyword": "html viewer",
+              "value": 7,
+              "type": "top"
+            },
+            {
+              "keyword": "image viewer",
+              "value": 6,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speech and Language",
+      "name_zh": "演讲与语言",
+      "score": 70,
+      "keywords_count": 10,
+      "rising_count": 5,
+      "top_count": 5,
+      "avg_rising_growth": 40,
+      "avg_top_score": 35,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及演讲和语言相关内容，适合建立相关教育或信息网站",
+      "subthemes": [
+        {
+          "name": "Free Speech",
+          "keywords": [
+            {
+              "keyword": "free speech",
+              "value": 52,
+              "type": "top"
+            },
+            {
+              "keyword": "freedom of speech",
+              "value": 19,
+              "type": "top"
+            },
+            {
+              "keyword": "hate speech",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Language Rules",
+          "keywords": [
+            {
+              "keyword": "parts of speech",
+              "value": 35,
+              "type": "top"
+            },
+            {
+              "keyword": "indirect speech",
+              "value": 29,
+              "type": "top"
+            },
+            {
+              "keyword": "direct speech",
+              "value": 20,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Syncing and Trading",
+      "name_zh": "同步与交易",
+      "score": 70,
+      "keywords_count": 10,
+      "rising_count": 4,
+      "top_count": 5,
+      "avg_rising_growth": 20,
+      "avg_top_score": 50,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及同步和交易相关工具，适合建立相关工具网站",
+      "subthemes": [
+        {
+          "name": "Fitness Syncing",
+          "keywords": [
+            {
+              "keyword": "fitness syncer",
+              "value": 234600,
+              "type": "rising"
+            },
+            {
+              "keyword": "tradeify",
+              "value": 90,
+              "type": "top"
+            },
+            {
+              "keyword": "trade syncer",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Trading Tools",
+          "keywords": [
+            {
+              "keyword": "tradeify",
+              "value": 90,
+              "type": "top"
+            },
+            {
+              "keyword": "tradesyncer",
+              "value": 7,
+              "type": "top"
+            },
+            {
+              "keyword": "tradingview",
+              "value": 6,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Templates",
+      "name_zh": "模板",
+      "score": 70,
+      "keywords_count": 15,
+      "rising_count": 5,
+      "top_count": 10,
+      "avg_rising_growth": 100,
+      "avg_top_score": 50,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及模板相关内容，适合建立模板下载网站",
+      "subthemes": [
+        {
+          "name": "Ramadan Templates",
+          "keywords": [
+            {
+              "keyword": "ramadan template",
+              "value": 250,
+              "type": "rising"
+            },
+            {
+              "keyword": "capcut template",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "capcut",
+              "value": 96,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "General Templates",
+          "keywords": [
+            {
+              "keyword": "travel itinerary template",
+              "value": 61,
+              "type": "top"
+            },
+            {
+              "keyword": "resume template",
+              "value": 38,
+              "type": "top"
+            },
+            {
+              "keyword": "template excel",
+              "value": 32,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trackers and Tools",
+      "name_zh": "追踪器和工具",
+      "score": 70,
+      "keywords_count": 20,
+      "rising_count": 10,
+      "top_count": 10,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 50,
+      "search_intent": "信息意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题关键词相关度较高，且搜索量增长迅速，适合做追踪器和工具的电子商务网站",
+      "subthemes": [
+        {
+          "name": "Refund Trackers",
+          "keywords": [
+            {
+              "keyword": "ramadan tracker",
+              "value": 300,
+              "type": "top"
+            },
+            {
+              "keyword": "h&r block refund tracker",
+              "value": 80,
+              "type": "top"
+            },
+            {
+              "keyword": "irs tracker",
+              "value": 50,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Flight Trackers",
+          "keywords": [
+            {
+              "keyword": "flight tracker",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "robotaxi tracker",
+              "value": 70,
+              "type": "top"
+            },
+            {
+              "keyword": "metra tracker",
+              "value": 80,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Portfolio Trackers",
+          "keywords": [
+            {
+              "keyword": "stock portfolio tracker",
+              "value": 36,
+              "type": "top"
+            },
+            {
+              "keyword": "valorant tracker",
+              "value": 37,
+              "type": "top"
+            },
+            {
+              "keyword": "fortnite",
+              "value": 28,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cheating and Hacking",
+      "name_zh": "作弊与黑客",
+      "score": 65,
+      "keywords_count": 14,
+      "rising_count": 5,
+      "top_count": 9,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 38,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及敏感内容，需谨慎处理",
+      "subthemes": [
+        {
+          "name": "Cheating Methods",
+          "keywords": [
+            {
+              "keyword": "cheat",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "cheat engine",
+              "value": 26,
+              "type": "top"
+            },
+            {
+              "keyword": "cheat codes",
+              "value": 38,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Calculators",
+      "name_zh": "计算器",
+      "score": 65,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 450,
+      "avg_top_score": 83,
+      "search_intent": "工具意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及各种计算器工具，适合建立在线计算器平台",
+      "subthemes": [
+        {
+          "name": "Financial Calculators",
+          "keywords": [
+            {
+              "keyword": "loan calculator",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "tax calculator",
+              "value": 83,
+              "type": "top"
+            },
+            {
+              "keyword": "mortgage calculator",
+              "value": 75,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Health and Fitness Calculators",
+          "keywords": [
+            {
+              "keyword": "bmi",
+              "value": 66,
+              "type": "top"
+            },
+            {
+              "keyword": "bmi calculator",
+              "value": 64,
+              "type": "top"
+            },
+            {
+              "keyword": "calorie calculator",
+              "value": 29,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Miscellaneous Calculators",
+          "keywords": [
+            {
+              "keyword": "age calculator",
+              "value": 83,
+              "type": "top"
+            },
+            {
+              "keyword": "date calculator",
+              "value": 43,
+              "type": "top"
+            },
+            {
+              "keyword": "calculator online",
+              "value": 41,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Action Movies",
+      "name_zh": "动作电影",
+      "score": 65,
+      "keywords_count": 7,
+      "rising_count": 1,
+      "top_count": 6,
+      "avg_rising_growth": 0,
+      "avg_top_score": 43,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及动作电影，适合制作相关内容网站",
+      "subthemes": [
+        {
+          "name": "Top Action Movies",
+          "keywords": [
+            {
+              "keyword": "action movies",
+              "value": 43,
+              "type": "top"
+            },
+            {
+              "keyword": "action movie",
+              "value": 35,
+              "type": "top"
+            },
+            {
+              "keyword": "action black",
+              "value": 35,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Code Lookup",
+      "name_zh": "代码查找",
+      "score": 65,
+      "keywords_count": 10,
+      "rising_count": 7,
+      "top_count": 3,
+      "avg_rising_growth": 1000,
+      "avg_top_score": 50,
+      "search_intent": "信息意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题有一定增长，适合提供代码查找服务。",
+      "subthemes": [
+        {
+          "name": "Postal Codes",
+          "keywords": [
+            {
+              "keyword": "usps zip code lookup",
+              "value": 50,
+              "type": "rising"
+            },
+            {
+              "keyword": "icd 10 code",
+              "value": 50,
+              "type": "rising"
+            },
+            {
+              "keyword": "855 area code",
+              "value": 40,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Example Usage",
+      "name_zh": "例子使用",
+      "score": 65,
+      "keywords_count": 10,
+      "rising_count": 5,
+      "top_count": 5,
+      "avg_rising_growth": 50,
+      "avg_top_score": 45,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "例子使用领域有一定需求，适合提供相关例子和解释",
+      "subthemes": [
+        {
+          "name": "Example of Things",
+          "keywords": [
+            {
+              "keyword": "example of",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "for example",
+              "value": 45,
+              "type": "top"
+            },
+            {
+              "keyword": "ideal example crossword clue",
+              "value": 1550,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Layout Design",
+      "name_zh": "布局设计",
+      "score": 65,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 15,
+      "avg_rising_growth": 500,
+      "avg_top_score": 32,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题搜索量稳定，适合做布局设计教程和资源分享站",
+      "subthemes": [
+        {
+          "name": "General Layout Design",
+          "keywords": [
+            {
+              "keyword": "layout design",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "what is layout",
+              "value": 32,
+              "type": "top"
+            },
+            {
+              "keyword": "keyboard layout",
+              "value": 19,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Room Layout",
+          "keywords": [
+            {
+              "keyword": "room layout",
+              "value": 14,
+              "type": "top"
+            },
+            {
+              "keyword": "house layout",
+              "value": 13,
+              "type": "top"
+            },
+            {
+              "keyword": "page layout",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Online Layout Tools",
+          "keywords": [
+            {
+              "keyword": "layout online",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "grid layout",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "layout app",
+              "value": 7,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lifestyle and Style",
+      "name_zh": "生活方式与风格",
+      "score": 65,
+      "keywords_count": 10,
+      "rising_count": 5,
+      "top_count": 5,
+      "avg_rising_growth": 50,
+      "avg_top_score": 35,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及生活方式和风格相关内容，适合建立相关生活方式网站",
+      "subthemes": [
+        {
+          "name": "American Style",
+          "keywords": [
+            {
+              "keyword": "american style pancakes",
+              "value": 250,
+              "type": "rising"
+            },
+            {
+              "keyword": "ceiling in the garden style",
+              "value": 250,
+              "type": "rising"
+            },
+            {
+              "keyword": "lidl near me",
+              "value": 50,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Hair Styles",
+          "keywords": [
+            {
+              "keyword": "hair style",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "style name",
+              "value": 86,
+              "type": "top"
+            },
+            {
+              "keyword": "blue style",
+              "value": 84,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Real Estate Agents",
+      "name_zh": "房地产经纪人",
+      "score": 60,
+      "keywords_count": 6,
+      "rising_count": 1,
+      "top_count": 5,
+      "avg_rising_growth": 0,
+      "avg_top_score": 49,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及房地产经纪人信息，适合制作相关内容网站",
+      "subthemes": [
+        {
+          "name": "Real Estate Agent Services",
+          "keywords": [
+            {
+              "keyword": "real estate agent",
+              "value": 49,
+              "type": "top"
+            },
+            {
+              "keyword": "estate agent",
+              "value": 65,
+              "type": "top"
+            },
+            {
+              "keyword": "travel agent",
+              "value": 36,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Online Compiler",
+      "name_zh": "在线编译器",
+      "score": 60,
+      "keywords_count": 10,
+      "rising_count": 5,
+      "top_count": 5,
+      "avg_rising_growth": 100,
+      "avg_top_score": 50,
+      "search_intent": "信息意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题有一定增长，适合提供在线编译器服务。",
+      "subthemes": [
+        {
+          "name": "Programming Languages",
+          "keywords": [
+            {
+              "keyword": "kotlin online compiler",
+              "value": 110,
+              "type": "rising"
+            },
+            {
+              "keyword": "cuims",
+              "value": 100,
+              "type": "rising"
+            },
+            {
+              "keyword": "kotlin compiler",
+              "value": 90,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Extractor Tools",
+      "name_zh": "提取工具",
+      "score": 60,
+      "keywords_count": 10,
+      "rising_count": 2,
+      "top_count": 8,
+      "avg_rising_growth": 50,
+      "avg_top_score": 28,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告/联盟营销",
+      "opportunity_analysis": "提取工具需求稳定，适合提供数据提取相关工具",
+      "subthemes": [
+        {
+          "name": "Data Extraction",
+          "keywords": [
+            {
+              "keyword": "extractor",
+              "value": 80,
+              "type": "rising"
+            },
+            {
+              "keyword": "json extractor",
+              "value": 50,
+              "type": "rising"
+            },
+            {
+              "keyword": "contactout",
+              "value": 80,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "List Creation",
+      "name_zh": "列表创建",
+      "score": 60,
+      "keywords_count": 20,
+      "rising_count": 5,
+      "top_count": 10,
+      "avg_rising_growth": 550,
+      "avg_top_score": 50,
+      "search_intent": "信息意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题搜索量稳定，适合做列表创建工具站",
+      "subthemes": [
+        {
+          "name": "Prize Bond Lists",
+          "keywords": [
+            {
+              "keyword": "1500 prize bond list 2026",
+              "value": 550,
+              "type": "rising"
+            },
+            {
+              "keyword": "walmart near me",
+              "value": 70,
+              "type": "top"
+            },
+            {
+              "keyword": "cause list",
+              "value": 50,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Voter Lists",
+          "keywords": [
+            {
+              "keyword": "voter list",
+              "value": 48,
+              "type": "top"
+            },
+            {
+              "keyword": "2003 voter list",
+              "value": 18,
+              "type": "top"
+            },
+            {
+              "keyword": "cause list",
+              "value": 18,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "General Lists",
+          "keywords": [
+            {
+              "keyword": "to do list",
+              "value": 49,
+              "type": "top"
+            },
+            {
+              "keyword": "check list",
+              "value": 36,
+              "type": "top"
+            },
+            {
+              "keyword": "baby list",
+              "value": 28,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speech Queries",
+      "name_zh": "演讲查询",
+      "score": 60,
+      "keywords_count": 5,
+      "rising_count": 4,
+      "top_count": 1,
+      "avg_rising_growth": 3000,
+      "avg_top_score": 3000,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题以演讲查询为主，适合建立提供演讲信息的内容站",
+      "subthemes": [
+        {
+          "name": "Political Speeches",
+          "keywords": [
+            {
+              "keyword": "jesse jackson speech",
+              "value": 6450,
+              "type": "rising"
+            },
+            {
+              "keyword": "jesse jackson i am somebody speech",
+              "value": 2700,
+              "type": "top"
+            },
+            {
+              "keyword": "trump board of peace speech",
+              "value": 1550,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Financial Advisor Services",
+      "name_zh": "财务顾问服务",
+      "score": 55,
+      "keywords_count": 6,
+      "rising_count": 2,
+      "top_count": 4,
+      "avg_rising_growth": 50,
+      "avg_top_score": 40,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及财务顾问服务信息，适合制作相关内容网站",
+      "subthemes": [
+        {
+          "name": "Financial Advisor Login",
+          "keywords": [
+            {
+              "keyword": "advisor financial",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "how to choose a financial advisor",
+              "value": 53,
+              "type": "top"
+            },
+            {
+              "keyword": "advisor login",
+              "value": 50,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Financial Advisor Information",
+          "keywords": [
+            {
+              "keyword": "finance advisor",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "investment advisor",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "advisor",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Action Figures",
+      "name_zh": "动作人偶",
+      "score": 50,
+      "keywords_count": 4,
+      "rising_count": 0,
+      "top_count": 4,
+      "avg_rising_growth": 0,
+      "avg_top_score": 82,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及动作人偶产品，适合制作相关产品推荐网站",
+      "subthemes": [
+        {
+          "name": "Top Action Figures",
+          "keywords": [
+            {
+              "keyword": "action figure",
+              "value": 82,
+              "type": "top"
+            },
+            {
+              "keyword": "action figures",
+              "value": 24,
+              "type": "top"
+            },
+            {
+              "keyword": "action figures",
+              "value": 24,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Financial Advisor Logins",
+      "name_zh": "财务顾问登录",
+      "score": 45,
+      "keywords_count": 5,
+      "rising_count": 3,
+      "top_count": 2,
+      "avg_rising_growth": 60,
+      "avg_top_score": 40,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及财务顾问登录信息，适合制作相关内容网站",
+      "subthemes": [
+        {
+          "name": "Advisor Login Pages",
+          "keywords": [
+            {
+              "keyword": "advisor financial",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "beneva advisor login",
+              "value": 80,
+              "type": "rising"
+            },
+            {
+              "keyword": "pacific life advisor login",
+              "value": 60,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Financial Advisor Information",
+      "name_zh": "财务顾问信息",
+      "score": 40,
+      "keywords_count": 5,
+      "rising_count": 2,
+      "top_count": 3,
+      "avg_rising_growth": 40,
+      "avg_top_score": 40,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及财务顾问信息，适合制作相关内容网站",
+      "subthemes": [
+        {
+          "name": "Advisor Information",
+          "keywords": [
+            {
+              "keyword": "finance advisor",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "student advisor",
+              "value": 40,
+              "type": "rising"
+            },
+            {
+              "keyword": "advisor financial",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Real Estate Agent Information",
+      "name_zh": "房地产经纪人信息",
+      "score": 35,
+      "keywords_count": 5,
+      "rising_count": 1,
+      "top_count": 4,
+      "avg_rising_growth": 0,
+      "avg_top_score": 49,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题涉及房地产经纪人信息，适合制作相关内容网站",
+      "subthemes": [
+        {
+          "name": "Real Estate Agent Details",
+          "keywords": [
+            {
+              "keyword": "real estate agent",
+              "value": 49,
+              "type": "top"
+            },
+            {
+              "keyword": "estate agent",
+              "value": 65,
+              "type": "top"
+            },
+            {
+              "keyword": "travel agent",
+              "value": 36,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
