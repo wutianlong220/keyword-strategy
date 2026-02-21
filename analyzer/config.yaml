@@ -5,8 +5,8 @@
 # ====================
 api:
   provider: zhipu  # 智谱GLM
-  model: glm-4-flash  # 模型版本 (推荐: glm-4-flash 快速便宜, glm-4-plus 更强大, glm-5 最新旗舰)
-  max_tokens: 8000  # 单次请求最大 token 数
+  model: glm-4.7  # 模型版本 (glm-4.7)
+  max_tokens: 128000  # 单次请求最大 token 数
   temperature: 0.3  # 温度参数，越低越稳定
 
   # API Key (从环境变量读取，更安全)

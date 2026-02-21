@@ -141,7 +141,7 @@ def create_client():
     # 使用 OpenAI SDK 连接智谱GLM
     return OpenAI(
         api_key=api_key,
-        base_url="https://open.bigmodel.cn/api/paas/v4/"  # 智谱GLM API 端点
+        base_url="https://open.bigmodel.cn/api/coding/paas/v4"  # GLM编码套餐专属端点
     )
 
 def create_clustering_prompt(keywords: List[Dict[str, Any]]) -> str:
@@ -464,9 +464,13 @@ def generate_markdown_report(
         if theme['top_count'] > 0:
             lines.append(f"**平均相关度**: {theme['avg_top_score']}")
 
-        lines.append(f"\n**搜索意图**: {theme['search_intent']}")
-        lines.append(f"**网站类型**: {theme['site_type']}")
-        lines.append(f"**变现方式**: {theme['monetization']}")
+        # 可选字段，如果存在才添加
+        if 'search_intent' in theme:
+            lines.append(f"\n**搜索意图**: {theme['search_intent']}")
+        if 'site_type' in theme:
+            lines.append(f"**网站类型**: {theme['site_type']}")
+        if 'monetization' in theme:
+            lines.append(f"**变现方式**: {theme['monetization']}")
 
         lines.append(f"\n**💡 商业机会分析**:")
         lines.append(f"{theme['opportunity_analysis']}")
