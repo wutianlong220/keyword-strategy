@@ -27,5 +27,6 @@ ENV/
 .DS_Store
 
 # 数据文件（可选，根据需要调整）
-# analysis/
-# data/themes_recent/
+analysis/
+data/themes_recent/
+data/rejected_keywords.txt
