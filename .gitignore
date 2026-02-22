@@ -30,3 +30,6 @@ ENV/
 analysis/
 data/themes_recent/
 data/rejected_keywords.txt
+
+# CSV 数据文件
+search-for-Google-keywords/*.csv
