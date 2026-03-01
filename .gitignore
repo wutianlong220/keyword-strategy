@@ -34,3 +34,6 @@ data/rejected_keywords.txt
 
 # CSV 数据文件
 search-for-Google-keywords/*.csv
+
+# 修 BUG 文件夹（本地调试用）
+修 BUG/
