@@ -20,7 +20,7 @@ api:
 # ====================
 concurrency:
   max_parallel: 2  # 最大并发请求数
-  batch_size: 200  # 每批处理的关键词数量（降低以避免响应被截断）
+  batch_size: 50  # 每批处理的关键词数量（降低以避免Connection error）
 
 # ====================
 # 聚类配置

@@ -491,8 +491,20 @@ def translate_keywords(keywords: List[Dict[str, Any]], client) -> List[Dict[str,
                 kw['chinese'] = ''
             return False
 
-    for i, batch in enumerate(batches, 1):
-        translate_batch(batch, i, len(batches))
+    # 并发处理翻译
+    max_parallel = CONFIG['concurrency']['max_parallel']
+    with ThreadPoolExecutor(max_workers=max_parallel) as executor:
+        futures = {
+            executor.submit(translate_batch, batch, i, len(batches)): i
+            for i, batch in enumerate(batches, 1)
+        }
+
+        for future in as_completed(futures):
+            try:
+                future.result()
+            except Exception as e:
+                batch_idx = futures[future]
+                print(f"   ❌ 批次 {batch_idx} 处理异常: {e}")
 
     print(f"✅ 翻译完成")
     return keywords
