@@ -85,6 +85,15 @@ def read_csv(csv_path: Path) -> List[Dict[str, Any]]:
 
 def filter_keywords(keywords: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """根据配置过滤关键词（当前不过滤，保留所有关键词）"""
+
+    # ==================== 测试限制 ====================
+    # 测试模式：只处理前600个关键词
+    TEST_MODE_LIMIT = 600
+    if len(keywords) > TEST_MODE_LIMIT:
+        print(f"⚠️  测试模式：只处理前 {TEST_MODE_LIMIT} 个关键词（总共{len(keywords)}个）")
+        keywords = keywords[:TEST_MODE_LIMIT]
+    # ==================== 测试限制结束 ====================
+
     # 不做任何过滤，返回所有关键词
     print(f"✅ 保留全部 {len(keywords)} 个关键词（不进行过滤）")
     return keywords
@@ -1015,7 +1024,18 @@ def generate_markdown_report_with_classification(
     # 趋势对比部分
     lines.append("### 📈 趋势对比\n")
 
-    if trend_info['status'] == "首次运行":
+    if trend_info.get('status') == "disabled":
+        lines.append(f"⚠️ **历史对比已禁用**")
+        lines.append(f"\n{trend_info['message']}")
+        lines.append(f"\n**原因**：由于关键词分类标准已优化（基于搜索意图），")
+        lines.append(f"旧数据与新数据不兼容，无法进行数值对比。")
+        lines.append(f"\n**建议**：积累7天新数据后，可在`config.yaml`中重新启用历史对比：")
+        lines.append(f"```yaml")
+        lines.append(f"history:")
+        lines.append(f"  enabled: true  # 改为true")
+        lines.append(f"```")
+        lines.append(f"\n")
+    elif trend_info['status'] == "首次运行":
         lines.append(f"⚠️ **{trend_info['message']}**")
         lines.append(f"\n从明天开始，将显示趋势变化信息。\n")
     else:
@@ -1224,12 +1244,20 @@ def main():
             trash_keywords = translate_keywords(trash_keywords, client)
 
         # 5. 加载历史数据 (只针对 PROJECT 类)
-        print("\n📚 正在加载历史数据...")
-        history_data = load_history_data(date_str)
-        if history_data:
-            print(f"✅ 找到 {len(history_data)} 天的历史数据")
+        # 检查是否启用历史对比
+        history_enabled = CONFIG['history']['enabled']
+        history_data = []
+
+        if history_enabled:
+            print("\n📚 正在加载历史数据...")
+            history_data = load_history_data(date_str)
+            if history_data:
+                print(f"✅ 找到 {len(history_data)} 天的历史数据")
+            else:
+                print("⚠️  未找到历史数据（首次运行）")
         else:
-            print("⚠️  未找到历史数据（首次运行）")
+            print("\n⚠️  历史对比已禁用（由于分类标准已改变）")
+            print("   待积累足够新数据后，可在config.yaml中启用")
 
         # 6. AI 分析 PROJECT 类 (原有逻辑)
         themes = []
@@ -1244,8 +1272,15 @@ def main():
             print(f"\n⚠️  没有项目类关键词需要分析")
 
         # 7. 趋势分析
-        print(f"\n📈 正在分析趋势...")
-        trend_info = analyze_trends(themes, history_data)
+        if history_data:
+            print(f"\n📈 正在分析趋势...")
+            trend_info = analyze_trends(themes, history_data)
+        else:
+            print(f"\n⚠️  跳过趋势分析（历史对比已禁用）")
+            trend_info = {
+                "status": "disabled",
+                "message": "历史对比已禁用，由于分类标准已改变。待积累足够新数据后可重新启用。"
+            }
 
         # 8. 保存报告 (修改: 包含三类词)
         print(f"\n💾 正在保存报告...")
