@@ -86,14 +86,6 @@ def read_csv(csv_path: Path) -> List[Dict[str, Any]]:
 def filter_keywords(keywords: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """根据配置过滤关键词（当前不过滤，保留所有关键词）"""
 
-    # ==================== 测试限制 ====================
-    # 测试模式：只处理前600个关键词
-    TEST_MODE_LIMIT = 600
-    if len(keywords) > TEST_MODE_LIMIT:
-        print(f"⚠️  测试模式：只处理前 {TEST_MODE_LIMIT} 个关键词（总共{len(keywords)}个）")
-        keywords = keywords[:TEST_MODE_LIMIT]
-    # ==================== 测试限制结束 ====================
-
     # 不做任何过滤，返回所有关键词
     print(f"✅ 保留全部 {len(keywords)} 个关键词（不进行过滤）")
     return keywords
@@ -1215,6 +1207,9 @@ def save_report(
 
 def main():
     """主函数"""
+    import time
+    start_time = time.time()
+
     print("=" * 60)
     print("🔍 关键词分析系统")
     print("=" * 60)
@@ -1230,10 +1225,6 @@ def main():
 
         print("\n🔍 正在过滤关键词...")
         keywords = filter_keywords(keywords)
-
-        # 🔧 临时测试：只处理前300个关键词
-        # keywords = keywords[:300]
-        # print(f"🧪 [测试模式] 只处理前 {len(keywords)} 个关键词")
 
         # 2. 创建 AI 客户端
         print("\n🤖 正在连接 AI 服务...")
@@ -1310,9 +1301,27 @@ def main():
         cleanup_old_data()
 
         # 完成
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+
         print("\n" + "=" * 60)
         print("✅ 分析完成！")
         print("=" * 60)
+
+        # 显示运行时间
+        hours = int(elapsed_time // 3600)
+        minutes = int((elapsed_time % 3600) // 60)
+        seconds = int(elapsed_time % 60)
+
+        if hours > 0:
+            time_str = f"{hours}小时{minutes}分{seconds}秒"
+        elif minutes > 0:
+            time_str = f"{minutes}分{seconds}秒"
+        else:
+            time_str = f"{seconds}秒"
+
+        print(f"\n⏱️  运行时间: {time_str}")
+
         print(f"\n📄 查看报告: {ANALYSIS_DIR / f'report_{date_str}.md'}")
         print(f"📊 查看数据: {THEMES_RECENT_DIR / f'themes_{date_str}.json'}")
 
