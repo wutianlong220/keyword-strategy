@@ -53,7 +53,7 @@ for dir_path in [ANALYSIS_DIR, DATA_DIR, THEMES_RECENT_DIR, THEMES_SUMMARY_DIR, 
 
 def find_latest_csv() -> Tuple[Path, str]:
     """找到最新的 CSV 文件"""
-    csv_files = [f for f in CSV_DIR.glob("*.csv") if not f.name.startswith("._")]
+    csv_files = list(CSV_DIR.glob("*.csv"))
     if not csv_files:
         raise FileNotFoundError(f"在 {CSV_DIR} 目录下没有找到 CSV 文件")
 
@@ -504,35 +504,24 @@ def translate_keywords(keywords: List[Dict[str, Any]], client) -> List[Dict[str,
 # ==================== AI 分析 ====================
 
 def create_client():
-    """创建 AI 客户端"""
-    provider = CONFIG['api'].get('provider', 'zhipu')
-    
-    if provider == 'zhipu':
-        api_key = os.environ.get(CONFIG['api']['api_key_env'])
-        if not api_key:
-            raise ValueError(
-                f"未找到 API Key！\n\n"
-                f"请选择以下方式之一设置 API Key：\n"
-                f"1. 在项目根目录创建 .env 文件，添加: {CONFIG['api']['api_key_env']}=your-api-key\n"
-                f"2. 或在终端设置: export {CONFIG['api']['api_key_env']}='your-api-key'\n\n"
-                f"获取智谱GLM API Key: https://open.bigmodel.cn/usercenter/apikeys"
-            )
+    """创建智谱GLM客户端（使用OpenAI兼容接口）"""
+    api_key = os.environ.get(CONFIG['api']['api_key_env'])
 
-        # 使用 OpenAI SDK 连接智谱GLM
-        return OpenAI(
-            api_key=api_key,
-            base_url="https://open.bigmodel.cn/api/coding/paas/v4",  # GLM编码套餐专属端点
-            timeout=1200.0  # 20分钟超时（每批次）
+    if not api_key:
+        raise ValueError(
+            f"未找到 API Key！\n\n"
+            f"请选择以下方式之一设置 API Key：\n"
+            f"1. 在项目根目录创建 .env 文件，添加: {CONFIG['api']['api_key_env']}=your-api-key\n"
+            f"2. 或在终端设置: export {CONFIG['api']['api_key_env']}='your-api-key'\n\n"
+            f"获取智谱GLM API Key: https://open.bigmodel.cn/usercenter/apikeys"
         )
-    elif provider == 'ollama':
-        api_config = CONFIG['api'].get('ollama', {})
-        return OpenAI(
-            api_key="ollama",
-            base_url=api_config.get('base_url', "http://localhost:11434/v1"),
-            timeout=1200.0
-        )
-    else:
-        raise ValueError(f"不支持的 AI 提供商: {provider}")
+
+    # 使用 OpenAI SDK 连接智谱GLM
+    return OpenAI(
+        api_key=api_key,
+        base_url="https://open.bigmodel.cn/api/coding/paas/v4",  # GLM编码套餐专属端点
+        timeout=1200.0  # 20分钟超时（每批次）
+    )
 
 def create_clustering_prompt(keywords: List[Dict[str, Any]]) -> str:
     """创建聚类分析的 prompt"""
@@ -600,12 +589,12 @@ def create_clustering_prompt(keywords: List[Dict[str, Any]]) -> str:
 
     return prompt
 
-def call_ai_for_clustering(keywords: List[Dict[str, Any]], client, retry_count=0, batch_idx=0, date_str="") -> Dict[str, Any]:
-    """调用AI进行聚类分析"""
+def call_ai_for_clustering(keywords: List[Dict[str, Any]], client, retry_count=0) -> Dict[str, Any]:
+    """调用智谱GLM进行聚类分析"""
     prompt = create_clustering_prompt(keywords)
 
     try:
-        # 使用Chat Completions接口（OpenAI兼容）
+        # 使用智谱GLM的Chat Completions接口（OpenAI兼容）
         response = client.chat.completions.create(
             model=CONFIG['api']['model'],
             max_tokens=CONFIG['api']['max_tokens'],
@@ -616,43 +605,25 @@ def call_ai_for_clustering(keywords: List[Dict[str, Any]], client, retry_count=0
             }]
         )
 
-        # 提取响应内容，防止 TypeError
-        content = response.choices[0].message.content or ""
-
-        # 保存原始文本
-        if date_str:
-            batch_dir = DATA_DIR / f"batches_{date_str}"
-            batch_dir.mkdir(parents=True, exist_ok=True)
-            timestamp = datetime.now().strftime('%H%M%S')
-            raw_path = batch_dir / f"batch_{batch_idx}_raw_{timestamp}.txt"
-            with open(raw_path, 'w', encoding='utf-8') as f:
-                f.write(content)
+        # 提取响应内容
+        content = response.choices[0].message.content
 
         # 清理可能的 markdown 代码块标记
-        cleaned_content = content
-        if "```json" in cleaned_content:
-            cleaned_content = cleaned_content.split("```json")[1].split("```")[0].strip()
-        elif "```" in cleaned_content:
-            cleaned_content = cleaned_content.split("```")[1].split("```")[0].strip()
+        if "```json" in content:
+            content = content.split("```json")[1].split("```")[0].strip()
+        elif "```" in content:
+            content = content.split("```")[1].split("```")[0].strip()
 
-        parsed_json = json.loads(cleaned_content)
-        
-        # 保存解析成功的 JSON
-        if date_str:
-            json_path = batch_dir / f"batch_{batch_idx}_parsed.json"
-            with open(json_path, 'w', encoding='utf-8') as f:
-                json.dump(parsed_json, f, ensure_ascii=False, indent=2)
-
-        return parsed_json
+        return json.loads(content)
 
     except json.JSONDecodeError as e:
-        print(f"❌ 批次 {batch_idx} JSON解析失败: {e}")
+        print(f"❌ JSON解析失败: {e}")
         # 如果是JSON解析错误，可能是响应不完整，尝试重试
         if retry_count < 2:
-            print(f"🔄 批次 {batch_idx} 正在重试... (第{retry_count + 1}次)")
+            print(f"🔄 正在重试... (第{retry_count + 1}次)")
             import time
             time.sleep(2)  # 等待2秒后重试
-            return call_ai_for_clustering(keywords, client, retry_count + 1, batch_idx, date_str)
+            return call_ai_for_clustering(keywords, client, retry_count + 1)
         return {"themes": []}
 
     except Exception as e:
@@ -660,17 +631,17 @@ def call_ai_for_clustering(keywords: List[Dict[str, Any]], client, retry_count=0
         # 检查是否是敏感内容错误
         if "1301" in error_msg or "敏感" in error_msg or "contentFilter" in error_msg:
             # 智能分批处理
-            return handle_content_filter_error(keywords, client, retry_count, batch_idx, date_str)
+            return handle_content_filter_error(keywords, client, retry_count)
         else:
-            print(f"❌ 批次 {batch_idx} AI 分析失败: {e}")
+            print(f"❌ AI 分析失败: {e}")
             if retry_count < 2:
-                print(f"🔄 批次 {batch_idx} 正在重试... (第{retry_count + 1}次)")
+                print(f"🔄 正在重试... (第{retry_count + 1}次)")
                 import time
                 time.sleep(2)
-                return call_ai_for_clustering(keywords, client, retry_count + 1, batch_idx, date_str)
+                return call_ai_for_clustering(keywords, client, retry_count + 1)
             return {"themes": []}
 
-def handle_content_filter_error(keywords: List[Dict[str, Any]], client, retry_count, batch_idx=0, date_str="") -> Dict[str, Any]:
+def handle_content_filter_error(keywords: List[Dict[str, Any]], client, retry_count) -> Dict[str, Any]:
     """处理内容审核错误 - 智能分批重试"""
     current_size = len(keywords)
 
@@ -704,13 +675,12 @@ def handle_content_filter_error(keywords: List[Dict[str, Any]], client, retry_co
 
     for i, sub_batch in enumerate(batches, 1):
         print(f"   正在处理子批次 {i}/{len(batches)} ({len(sub_batch)}个关键词)...")
-        sub_idx = f"{batch_idx}.{i}"
-        result = call_ai_for_clustering(sub_batch, client, retry_count + 1, sub_idx, date_str)
+        result = call_ai_for_clustering(sub_batch, client, retry_count + 1)
         all_themes.extend(result.get('themes', []))
 
     return {"themes": all_themes}
 
-def batch_analyze(keywords: List[Dict[str, Any]], client, date_str: str) -> List[Dict[str, Any]]:
+def batch_analyze(keywords: List[Dict[str, Any]], client) -> List[Dict[str, Any]]:
     """分批并行分析关键词"""
     batch_size = CONFIG['concurrency']['batch_size']
     max_parallel = CONFIG['concurrency']['max_parallel']
@@ -724,7 +694,7 @@ def batch_analyze(keywords: List[Dict[str, Any]], client, date_str: str) -> List
     # 并发处理
     with ThreadPoolExecutor(max_workers=max_parallel) as executor:
         future_to_batch = {
-            executor.submit(call_ai_for_clustering, batch, client, 0, i, date_str): i
+            executor.submit(call_ai_for_clustering, batch, client): i
             for i, batch in enumerate(batches)
         }
 
@@ -754,8 +724,6 @@ def merge_and_deduplicate_themes(themes: List[Dict[str, Any]]) -> List[Dict[str,
             existing['keywords_count'] += theme['keywords_count']
             existing['rising_count'] += theme['rising_count']
             existing['top_count'] += theme['top_count']
-            if 'subthemes' not in existing:
-                existing['subthemes'] = []
             existing['subthemes'].extend(theme.get('subthemes', []))
 
     # 按得分排序
@@ -891,7 +859,7 @@ def generate_markdown_report(
             lines.append(f"**变现方式**: {theme['monetization']}")
 
         lines.append(f"\n**💡 商业机会分析**:")
-        lines.append(f"{theme.get('opportunity_analysis', '无分析数据')}")
+        lines.append(f"{theme['opportunity_analysis']}")
 
         # 细分
         if theme.get('subthemes'):
@@ -1122,7 +1090,7 @@ def generate_markdown_report_with_classification(
             lines.append(f"**变现方式**: {theme['monetization']}")
 
         lines.append(f"\n**💡 商业机会分析**:")
-        lines.append(f"{theme.get('opportunity_analysis', '无分析数据')}")
+        lines.append(f"{theme['opportunity_analysis']}")
 
         # 细分
         if theme.get('subthemes'):
@@ -1298,7 +1266,7 @@ def main():
         themes = []
         if project_keywords:
             print(f"\n🧠 正在分析项目类关键词（共 {len(project_keywords)} 个）...")
-            themes = batch_analyze(project_keywords, client, date_str)
+            themes = batch_analyze(project_keywords, client)
 
             print(f"\n🔗 正在合并和去重主题...")
             themes = merge_and_deduplicate_themes(themes)

@@ -4,8 +4,8 @@
 # API 配置
 # ====================
 api:
-  provider: ollama  # 可选: zhipu, ollama
-  model: "qwen3:1.7b"  # Ollama 模型名称 (如 qwen2.5, llama3 等)
+  provider: zhipu  # 智谱GLM
+  model: glm-4.7  # 模型版本 (glm-4.7)
   max_tokens: 128000  # 单次请求最大 token 数
   temperature: 0.3  # 温度参数，越低越稳定
 
@@ -14,10 +14,6 @@ api:
   # 或在 .bashrc/.zshrc 中添加: export ZHIPU_API_KEY="your-api-key"
   # 获取 API Key: https://open.bigmodel.cn/usercenter/apikeys
   api_key_env: ZHIPU_API_KEY
-
-  # Ollama 配置
-  ollama:
-    base_url: "http://localhost:11434/v1"
 
 # ====================
 # 并发配置
@@ -132,7 +128,7 @@ output:
 # ====================
 history:
   # 是否启用历史对比（由于分类标准已改变，暂时禁用）
-  enabled: true  # 待积累足够新数据后再启用
+  enabled: false  # 待积累足够新数据后再启用
 
   # 历史对比窗口
   comparison_window: 7  # 对比最近 7 天的数据
