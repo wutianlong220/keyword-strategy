@@ -1,0 +1,86 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Font & Format Tools",
+      "name_zh": "字体与格式工具",
+      "score": 92,
+      "keywords_count": 24,
+      "rising_count": 17,
+      "top_count": 6,
+      "avg_rising_growth": 700,
+      "avg_top_score": 82,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "字体与格式工具需求稳定，适合做内容站提供教程与工具",
+      "subthemes": [
+        {
+          "name": "Font Download",
+          "keywords": [
+            {
+              "keyword": "font download",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "font generator",
+              "value": 72,
+              "type": "top"
+            },
+            {
+              "keyword": "font style",
+              "value": 55,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Format Converter",
+          "keywords": [
+            {
+              "keyword": "email format",
+              "value": 1400,
+              "type": "rising"
+            },
+            {
+              "keyword": "hindi letter format",
+              "value": 110,
+              "type": "rising"
+            },
+            {
+              "keyword": "aupcharik patra format",
+              "value": 1300,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Video Editing Tools",
+          "keywords": [
+            {
+              "keyword": "free video enhancer",
+              "value": 600,
+              "type": "top"
+            },
+            {
+              "keyword": "photo quality enhancer",
+              "value": 500,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Background Removal Tools",
+          "keywords": [
+            {
+              "keyword": "remove bg",
+              "value": 400,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Evaluation Tools",
+      "name_zh": "评估工具",
+      "score": 90,
+      "keywords_count": 20,
+      "rising_count": 12,
+      "top_count": 5,
+      "avg_rising_growth": 650,
+      "avg_top_score": 75,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告制",
+      "opportunity_analysis": "该主题需求稳定，适合做专业评估工具内容站",
+      "subthemes": [
+        {
+          "name": "SEO Evaluation",
+          "keywords": [
+            {
+              "keyword": "seo evaluator",
+              "value": 180,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Real Estate Evaluation",
+          "keywords": [
+            {
+              "keyword": "real estate evaluator",
+              "value": 40,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Example Content",
+      "name_zh": "示例内容",
+      "score": 85,
+      "keywords_count": 12,
+      "rising_count": 6,
+      "top_count": 3,
+      "avg_rising_growth": 500,
+      "avg_top_score": 65,
+      "search_intent": "导航意图",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "该主题流量稳定，适合做知识型导航站",
+      "subthemes": [
+        {
+          "name": "Scientific Examples",
+          "keywords": [
+            {
+              "keyword": "raman effect example",
+              "value": 300,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

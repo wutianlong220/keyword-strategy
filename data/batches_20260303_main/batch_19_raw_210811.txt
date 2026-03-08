@@ -1,0 +1,78 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {"keyword": "ai image generator", "value": 1200, "type": "rising"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrical Connectors",
+      "name_zh": "电气连接器",
+      "score": 90,
+      "keywords_count": 22,
+      "rising_count": 15,
+      "top_count": 6,
+      "avg_rising_growth": 700,
+      "avg_top_score": 80,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告制",
+      "opportunity_analysis": "该主题需求稳定，适合做专业连接器知识库",
+      "subthemes": [
+        {
+          "name": "Male/Female Connectors",
+          "keywords": [
+            {"keyword": "male connector", "value": 30, "type": "top"},
+            {"keyword": "female connector", "value": 30, "type": "top"}
+          ]
+        },
+        {
+          "name": "USB Connectors",
+          "keywords": [
+            {"keyword": "usb connector", "value": 29, "type": "top"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Music Instruments",
+      "name_zh": "音乐乐器",
+      "score": 88,
+      "keywords_count": 19,
+      "rising_count": 12,
+      "top_count": 5,
+      "avg_rising_growth": 650,
+      "avg_top_score": 75,
+      "search_intent": "商业调查",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "该主题需求稳定，适合做音乐乐器评测平台",
+      "subthemes": [
+        {
+          "name": "Instrument Manufacturers",
+          "keywords": [
+            {"keyword": "composer", "value": 6, "type": "top"},
+            {"keyword": "zimmer composer", "value": 5, "type": "top"}
+          ]
+        }
+      ]
+    }
+  ]
+}

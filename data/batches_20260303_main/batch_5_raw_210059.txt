@@ -1,0 +1,70 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {"keyword": "ai image generator", "value": 1200, "type": "rising"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Medical Assistant Tools",
+      "name_zh": "医疗助理工具",
+      "score": 90,
+      "keywords_count": 15,
+      "rising_count": 12,
+      "top_count": 5,
+      "avg_rising_growth": 700,
+      "avg_top_score": 75,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告制",
+      "opportunity_analysis": "医疗领域工具需求稳定，适合做医疗知识库内容站",
+      "subthemes": [
+        {
+          "name": "Medical Image Analysis",
+          "keywords": [
+            {"keyword": "medical assistant", "value": 70, "type": "top"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Education Assistant Tools",
+      "name_zh": "教育助理工具",
+      "score": 88,
+      "keywords_count": 14,
+      "rising_count": 10,
+      "top_count": 4,
+      "avg_rising_growth": 650,
+      "avg_top_score": 70,
+      "search_intent": "导航意图",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "教育领域工具需求稳定，适合做教育导航站",
+      "subthemes": [
+        {
+          "name": "Exam Preparation",
+          "keywords": [
+            {"keyword": "ctet", "value": 60, "type": "top"}
+          ]
+        }
+      ]
+    }
+  ]
+}

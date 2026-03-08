@@ -1,0 +1,88 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {"keyword": "ai image generator", "value": 1200, "type": "rising"}
+          ]
+        },
+        {
+          "name": "Image Editing Tools",
+          "keywords": [
+            {"keyword": "image editing tools", "value": 900, "type": "top"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Audio Equipment",
+      "name_zh": "音频设备",
+      "score": 88,
+      "keywords_count": 15,
+      "rising_count": 12,
+      "top_count": 3,
+      "avg_rising_growth": 600,
+      "avg_top_score": 75,
+      "search_intent": "信息",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "音频设备相关关键词热度稳定，适合做专业音频设备评测内容站",
+      "subthemes": [
+        {
+          "name": "Speaker Systems",
+          "keywords": [
+            {"keyword": "speaker systems", "value": 80, "type": "top"}
+          ]
+        },
+        {
+          "name": "Headphones",
+          "keywords": [
+            {"keyword": "headphones", "value": 60, "type": "rising"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Navigation Tools",
+      "name_zh": "导航工具",
+      "score": 82,
+      "keywords_count": 12,
+      "rising_count": 9,
+      "top_count": 4,
+      "avg_rising_growth": 500,
+      "avg_top_score": 65,
+      "search_intent": "导航",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "导航工具搜索意图明确，适合做专业导航工具推荐站",
+      "subthemes": [
+        {
+          "name": "Map Services",
+          "keywords": [
+            {"keyword": "map services", "value": 50, "type": "top"}
+          ]
+        },
+        {
+          "name": "GPS Devices",
+          "keywords": [
+            {"keyword": "gps devices", "value": 30, "type": "rising"}
+          ]
+        }
+      ]
+    }
+  ]
+}

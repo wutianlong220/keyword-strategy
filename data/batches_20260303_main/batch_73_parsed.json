@@ -1,0 +1,118 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Web Templates",
+      "name_zh": "网页模板",
+      "score": 90,
+      "keywords_count": 15,
+      "rising_count": 12,
+      "top_count": 5,
+      "avg_rising_growth": 700,
+      "avg_top_score": 80,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "网页模板需求大，适合做工具站",
+      "subthemes": [
+        {
+          "name": "Email Templates",
+          "keywords": [
+            {
+              "keyword": "email template",
+              "value": 17,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Invoice Templates",
+          "keywords": [
+            {
+              "keyword": "invoice template",
+              "value": 18,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Social Media Templates",
+      "name_zh": "社交媒体模板",
+      "score": 85,
+      "keywords_count": 12,
+      "rising_count": 9,
+      "top_count": 4,
+      "avg_rising_growth": 650,
+      "avg_top_score": 75,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "社交媒体模板需求大，适合做工具站",
+      "subthemes": [
+        {
+          "name": "Instagram Templates",
+          "keywords": [
+            {
+              "keyword": "instagram template",
+              "value": 11,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Capcut Templates",
+      "name_zh": "Capcut模板",
+      "score": 80,
+      "keywords_count": 10,
+      "rising_count": 6,
+      "top_count": 3,
+      "avg_rising_growth": 600,
+      "avg_top_score": 70,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "Capcut模板需求大，适合做工具站",
+      "subthemes": [
+        {
+          "name": "Slow Motion Templates",
+          "keywords": [
+            {
+              "keyword": "capcut slow motion template",
+              "value": 5,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

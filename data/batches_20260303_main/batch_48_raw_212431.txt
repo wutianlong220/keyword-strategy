@@ -1,0 +1,94 @@
+{
+  "themes": [
+    {
+      "name": "Monitor Devices",
+      "name_zh": "监测设备",
+      "score": 92,
+      "keywords_count": 15,
+      "rising_count": 12,
+      "top_count": 3,
+      "avg_rising_growth": 780,
+      "avg_top_score": 75,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "监测设备需求旺盛，适合开发硬件工具站",
+      "subthemes": [
+        {
+          "name": "Monitor PC",
+          "keywords": [
+            {"keyword": "monitor pc", "value": 42, "type": "top"}
+          ]
+        },
+        {
+          "name": "Computer Monitor",
+          "keywords": [
+            {"keyword": "computer monitor", "value": 27, "type": "top"}
+          ]
+        },
+        {
+          "name": "Laptop Monitor",
+          "keywords": [
+            {"keyword": "laptop monitor", "value": 30, "type": "top"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Monitoring Software",
+      "name_zh": "监控软件",
+      "score": 90,
+      "keywords_count": 12,
+      "rising_count": 10,
+      "top_count": 2,
+      "avg_rising_growth": 650,
+      "avg_top_score": 80,
+      "search_intent": "商业调查",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "监控软件需求稳定，适合做内容站",
+      "subthemes": [
+        {
+          "name": "Monitor Gaming",
+          "keywords": [
+            {"keyword": "monitor gaming", "value": 61, "type": "top"}
+          ]
+        },
+        {
+          "name": "Monitor World",
+          "keywords": [
+            {"keyword": "monitor world", "value": 58, "type": "top"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Music Tools",
+      "name_zh": "音乐工具",
+      "score": 88,
+      "keywords_count": 14,
+      "rising_count": 9,
+      "top_count": 4,
+      "avg_rising_growth": 600,
+      "avg_top_score": 78,
+      "search_intent": "信息",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "音乐工具需求稳定，适合做导航站",
+      "subthemes": [
+        {
+          "name": "Music YouTube",
+          "keywords": [
+            {"keyword": "music youtube", "value": 100, "type": "top"}
+          ]
+        },
+        {
+          "name": "Apple Music",
+          "keywords": [
+            {"keyword": "apple music", "value": 41, "type": "top"}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "AI Image Editor",
+          "keywords": [
+            {
+              "keyword": "ai image editor",
+              "value": 950,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Website Builders",
+      "name_zh": "网站构建工具",
+      "score": 92,
+      "keywords_count": 18,
+      "rising_count": 12,
+      "top_count": 6,
+      "avg_rising_growth": 700,
+      "avg_top_score": 80,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "广告制",
+      "opportunity_analysis": "该主题增长稳定，适合做网站构建工具站",
+      "subthemes": [
+        {
+          "name": "Website Builder Tools",
+          "keywords": [
+            {
+              "keyword": "builder website",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "free website builder",
+              "value": 15,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Game/APP Builders",
+      "name_zh": "游戏/应用构建工具",
+      "score": 89,
+      "keywords_count": 15,
+      "rising_count": 9,
+      "top_count": 5,
+      "avg_rising_growth": 650,
+      "avg_top_score": 75,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "该主题细分领域丰富，适合做游戏/应用构建工具内容站",
+      "subthemes": [
+        {
+          "name": "Game Builder",
+          "keywords": [
+            {
+              "keyword": "city builder",
+              "value": 20,
+              "type": "top"
+            },
+            {
+              "keyword": "pokemon builder",
+              "value": 17,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Financial Calculators",
+      "name_zh": "金融计算器",
+      "score": 88,
+      "keywords_count": 14,
+      "rising_count": 7,
+      "top_count": 4,
+      "avg_rising_growth": 550,
+      "avg_top_score": 65,
+      "search_intent": "信息意图",
+      "site_type": "导航站",
+      "monetization": "广告制",
+      "opportunity_analysis": "该主题细分领域明确，适合做金融计算器导航站",
+      "subthemes": [
+        {
+          "name": "Loan Calculator",
+          "keywords": [
+            {
+              "keyword": "loan calculator",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "refinance calculator",
+              "value": 50,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

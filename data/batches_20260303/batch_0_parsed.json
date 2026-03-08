@@ -1,0 +1,30 @@
+{
+  "themes": [
+    {
+      "name": "Wordle Answers",
+      "name_zh": "Wordle答案",
+      "score": 90,
+      "keywords_count": 2,
+      "rising_count": 0,
+      "top_count": 0,
+      "avg_rising_growth": 0,
+      "avg_top_score": 0,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题与Wordle游戏相关，适合做内容站提供答案解析",
+      "subthemes": [
+        {
+          "name": "Wordle Answer Parser",
+          "keywords": [
+            {
+              "keyword": "wordle answer feb 27",
+              "value": 550,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

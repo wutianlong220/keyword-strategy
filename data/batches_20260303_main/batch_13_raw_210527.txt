@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "name": "AI Checker Tools",
+      "name_zh": "AI检查工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "AI检查工具需求旺盛，适合打造AI生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {"keyword": "ai image generator", "value": 1200, "type": "rising"}
+          ]
+        },
+        {
+          "name": "AI Detector",
+          "keywords": [
+            {"keyword": "ai detector", "value": 800, "type": "rising"}
+          ]
+        },
+        {
+          "name": "Plagiarism Checker",
+          "keywords": [
+            {"keyword": "plagiarism checker", "value": 500, "type": "rising"}
+          ]
+        }
+      ]
+    }
+  ]
+}

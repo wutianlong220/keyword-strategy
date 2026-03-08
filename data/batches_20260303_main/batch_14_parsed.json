@@ -1,0 +1,66 @@
+{
+  "themes": [
+    {
+      "name": "Crossword Clue Tools",
+      "name_zh": "谜题线索工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 72,
+      "avg_top_score": 28,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告制",
+      "opportunity_analysis": "谜题线索工具需求稳定，适合内容站提供免费工具和付费订阅",
+      "subthemes": [
+        {
+          "name": "Crossword Solver",
+          "keywords": [
+            {
+              "keyword": "crossword solver",
+              "value": 1,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Clue Game",
+          "keywords": [
+            {
+              "keyword": "clue game",
+              "value": 2,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Security Code Tools",
+      "name_zh": "安全代码工具",
+      "score": 92,
+      "keywords_count": 23,
+      "rising_count": 15,
+      "top_count": 5,
+      "avg_rising_growth": 65,
+      "avg_top_score": 34,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "安全代码工具需求增长快，适合工具站提供专业工具和付费服务",
+      "subthemes": [
+        {
+          "name": "Safe Code Generator",
+          "keywords": [
+            {
+              "keyword": "re9 safe code",
+              "value": 23050,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

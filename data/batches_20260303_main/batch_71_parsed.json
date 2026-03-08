@@ -1,0 +1,112 @@
+{
+  "themes": [
+    {
+      "name": "Style & Fashion",
+      "name_zh": "时尚风格",
+      "score": 85,
+      "keywords_count": 15,
+      "rising_count": 10,
+      "top_count": 5,
+      "avg_rising_growth": 73,
+      "avg_top_score": 78,
+      "search_intent": "信息",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "时尚风格关键词数量适中，相关度较高，适合打造时尚风格导航站",
+      "subthemes": [
+        {
+          "name": "Fashion Style Guide",
+          "keywords": [
+            {
+              "keyword": "style korean",
+              "value": 70,
+              "type": "top"
+            },
+            {
+              "keyword": "chicago style",
+              "value": 60,
+              "type": "top"
+            },
+            {
+              "keyword": "street style",
+              "value": 55,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI Summarizer Tools",
+      "name_zh": "AI摘要工具",
+      "score": 92,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "AI摘要工具增长迅速，适合打造AI图像生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "AI Text Summarizer",
+          "keywords": [
+            {
+              "keyword": "ai text summarizer",
+              "value": 500,
+              "type": "rising"
+            },
+            {
+              "keyword": "notebooklm",
+              "value": 300,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sync & Trading",
+      "name_zh": "同步与交易",
+      "score": 80,
+      "keywords_count": 12,
+      "rising_count": 6,
+      "top_count": 4,
+      "avg_rising_growth": 600,
+      "avg_top_score": 70,
+      "search_intent": "商业调查",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "交易类关键词增长稳定，适合打造加密货币同步器内容站",
+      "subthemes": [
+        {
+          "name": "Cryptocurrency Syncer",
+          "keywords": [
+            {
+              "keyword": "usdb syncer",
+              "value": 113700,
+              "type": "rising"
+            },
+            {
+              "keyword": "alpha futures",
+              "value": 650,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "AI Image Solver",
+          "keywords": [
+            {
+              "keyword": "solver|novak",
+              "value": 13750,
+              "type": "rising"
+            },
+            {
+              "keyword": "solver|licorice pizza",
+              "value": 4250,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
