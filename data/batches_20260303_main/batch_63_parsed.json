@@ -1,0 +1,92 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Web Scraper Tools",
+      "name_zh": "网页爬虫工具",
+      "score": 92,
+      "keywords_count": 24,
+      "rising_count": 17,
+      "top_count": 6,
+      "avg_rising_growth": 750,
+      "avg_top_score": 80,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告制",
+      "opportunity_analysis": "该主题搜索量稳定，适合做内容型工具站",
+      "subthemes": [
+        {
+          "name": "Data Scraper",
+          "keywords": [
+            {
+              "keyword": "data scraper",
+              "value": 140,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "API Scraper",
+          "keywords": [
+            {
+              "keyword": "api scraper",
+              "value": 130,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scheduler Tools",
+      "name_zh": "任务调度器工具",
+      "score": 89,
+      "keywords_count": 22,
+      "rising_count": 15,
+      "top_count": 5,
+      "avg_rising_growth": 700,
+      "avg_top_score": 75,
+      "search_intent": "导航意图",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "该主题搜索量稳定，适合做导航型工具站",
+      "subthemes": [
+        {
+          "name": "Task Scheduler",
+          "keywords": [
+            {
+              "keyword": "task scheduler",
+              "value": 30,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Military Tracking Tools",
+      "name_zh": "军事追踪工具",
+      "score": 88,
+      "keywords_count": 15,
+      "rising_count": 12,
+      "top_count": 5,
+      "avg_rising_growth": 700,
+      "avg_top_score": 75,
+      "search_intent": "信息意图",
+      "site_type": "导航站",
+      "monetization": "广告制",
+      "opportunity_analysis": "军事追踪需求稳定，适合做导航站提供实时追踪服务",
+      "subthemes": [
+        {
+          "name": "Flight Tracking",
+          "keywords": [
+            {
+              "keyword": "flight radar",
+              "value": 300,
+              "type": "rising"
+            },
+            {
+              "keyword": "flightradar24",
+              "value": 250,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Missile Tracking",
+          "keywords": [
+            {
+              "keyword": "missile tracker",
+              "value": 2350,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Product Photo Editing",
+          "keywords": [
+            {
+              "keyword": "product photo ai",
+              "value": 100,
+              "type": "top"
+            },
+            {
+              "keyword": "product photo background",
+              "value": 38,
+              "type": "top"
+            },
+            {
+              "keyword": "product photo editing",
+              "value": 31,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics Hardware",
+      "name_zh": "电子产品硬件",
+      "score": 88,
+      "keywords_count": 12,
+      "rising_count": 6,
+      "top_count": 3,
+      "avg_rising_growth": 500,
+      "avg_top_score": 70,
+      "search_intent": "信息意图",
+      "site_type": "导航站",
+      "monetization": "广告",
+      "opportunity_analysis": "硬件相关搜索量稳定，适合做电子设备导航站",
+      "subthemes": [
+        {
+          "name": "Processor Hardware",
+          "keywords": [
+            {
+              "keyword": "processor",
+              "value": 16,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Receiver Devices",
+          "keywords": [
+            {
+              "keyword": "receiver",
+              "value": 13,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

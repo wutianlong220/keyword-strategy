@@ -1,0 +1,113 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Manager Tools",
+      "name_zh": "管理工具",
+      "score": 90,
+      "keywords_count": 14,
+      "rising_count": 12,
+      "top_count": 2,
+      "avg_rising_growth": 750,
+      "avg_top_score": 70,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "管理工具需求稳定，适合做内容站提供教程和工具推荐",
+      "subthemes": [
+        {
+          "name": "Manager Apps",
+          "keywords": [
+            {
+              "keyword": "manager sayf",
+              "value": 450,
+              "type": "rising"
+            },
+            {
+              "keyword": "manager blox fruits",
+              "value": 130,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Password Managers",
+      "name_zh": "密码管理器",
+      "score": 88,
+      "keywords_count": 12,
+      "rising_count": 9,
+      "top_count": 3,
+      "avg_rising_growth": 650,
+      "avg_top_score": 65,
+      "search_intent": "信息意图",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "密码管理器需求稳定，适合做导航站提供安全工具推荐",
+      "subthemes": [
+        {
+          "name": "Password Manager",
+          "keywords": [
+            {
+              "keyword": "password manager",
+              "value": 88,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Project Managers",
+      "name_zh": "项目管理",
+      "score": 85,
+      "keywords_count": 10,
+      "rising_count": 7,
+      "top_count": 2,
+      "avg_rising_growth": 600,
+      "avg_top_score": 60,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "项目管理工具需求稳定，适合做内容站提供教程和工具推荐",
+      "subthemes": [
+        {
+          "name": "Project Manager",
+          "keywords": [
+            {
+              "keyword": "project manager",
+              "value": 71,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

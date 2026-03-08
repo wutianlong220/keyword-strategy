@@ -1,0 +1,106 @@
+{
+  "themes": [
+    {
+      "name": "Sample Paper",
+      "name_zh": "样例试卷",
+      "score": 92,
+      "keywords_count": 30,
+      "rising_count": 22,
+      "top_count": 8,
+      "avg_rising_growth": 780,
+      "avg_top_score": 83,
+      "search_intent": "交易意图",
+      "site_type": "内容站",
+      "monetization": "广告制",
+      "opportunity_analysis": "样例试卷相关关键词增长迅速，适合做教育内容站，可结合付费课程或资料包变现",
+      "subthemes": [
+        {
+          "name": "Hindi Sample Paper",
+          "keywords": [
+            {
+              "keyword": "hindi sample paper class 10 2025",
+              "value": 750,
+              "type": "top"
+            },
+            {
+              "keyword": "hindi sample paper class 10 2026",
+              "value": 500,
+              "type": "top"
+            },
+            {
+              "keyword": "hindi sample paper class 10",
+              "value": 650,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "CBSE Sample Paper",
+          "keywords": [
+            {
+              "keyword": "cbse sample paper 2025-26",
+              "value": 500,
+              "type": "top"
+            },
+            {
+              "keyword": "cbse sample paper 2026",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "cbse class 10 sample paper",
+              "value": 900,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Class 10 Sample Paper",
+          "keywords": [
+            {
+              "keyword": "class 10 sample paper",
+              "value": 27,
+              "type": "top"
+            },
+            {
+              "keyword": "class 10 sample paper 2025",
+              "value": 750,
+              "type": "top"
+            },
+            {
+              "keyword": "class 10 sample paper 2026",
+              "value": 500,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "AI图片工具搜索增长迅速，适合做AI图片生成工具站，可结合AI绘画课程或工具包变现",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-commerce & Financial Services",
+      "name_zh": "电商与金融服务",
+      "score": 92,
+      "keywords_count": 18,
+      "rising_count": 12,
+      "top_count": 6,
+      "avg_rising_growth": 650,
+      "avg_top_score": 78,
+      "search_intent": "交易意图",
+      "site_type": "内容站",
+      "monetization": "广告制",
+      "opportunity_analysis": "电商关键词增长稳定，适合做内容型电商站点"
+    },
+    {
+      "name": "Real Estate & Travel",
+      "name_zh": "房地产与旅游",
+      "score": 89,
+      "keywords_count": 15,
+      "rising_count": 9,
+      "top_count": 5,
+      "avg_rising_growth": 580,
+      "avg_top_score": 72,
+      "search_intent": "导航意图",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "旅游关键词相关度高，适合做旅游导航站点"
+    },
+    {
+      "name": "Education & Training",
+      "name_zh": "教育与培训",
+      "score": 86,
+      "keywords_count": 12,
+      "rising_count": 6,
+      "top_count": 4,
+      "avg_rising_growth": 420,
+      "avg_top_score": 65,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "教育关键词增长稳定，适合做教育内容站点"
+    }
+  ]
+}

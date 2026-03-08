@@ -1,0 +1,102 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Financial Chart Tools",
+      "name_zh": "金融图表工具",
+      "score": 92,
+      "keywords_count": 22,
+      "rising_count": 15,
+      "top_count": 5,
+      "avg_rising_growth": 750,
+      "avg_top_score": 80,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告制",
+      "opportunity_analysis": "金融数据可视化需求旺盛，适合做专业图表工具内容站",
+      "subthemes": [
+        {
+          "name": "Oil Price Tracker",
+          "keywords": [
+            {
+              "keyword": "oil price chart",
+              "value": 10,
+              "type": "top"
+            },
+            {
+              "keyword": "oil price",
+              "value": 10,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Gold Price Analyzer",
+          "keywords": [
+            {
+              "keyword": "gold price chart",
+              "value": 18,
+              "type": "top"
+            },
+            {
+              "keyword": "gold price",
+              "value": 18,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Character Analysis Tools",
+      "name_zh": "字符分析工具",
+      "score": 88,
+      "keywords_count": 18,
+      "rising_count": 12,
+      "top_count": 3,
+      "avg_rising_growth": 650,
+      "avg_top_score": 75,
+      "search_intent": "导航意图",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "字符相关工具需求稳定，适合做专业字符分析导航站",
+      "subthemes": [
+        {
+          "name": "Character Counter",
+          "keywords": [
+            {
+              "keyword": "character count",
+              "value": 4,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

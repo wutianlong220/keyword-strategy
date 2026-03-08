@@ -1,0 +1,68 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {"keyword": "ai image generator", "value": 1200, "type": "rising"}
+          ]
+        },
+        {
+          "name": "Image Upscaler",
+          "keywords": [
+            {"keyword": "image upscaler", "value": 80, "type": "top"},
+            {"keyword": "image upscaler free", "value": 21, "type": "top"}
+          ]
+        },
+        {
+          "name": "AI Image Enhancer",
+          "keywords": [
+            {"keyword": "image enhancer", "value": 4, "type": "top"},
+            {"keyword": "free ai image upscaler", "value": 25, "type": "top"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Video Upload Tools",
+      "name_zh": "视频上传工具",
+      "score": 85,
+      "keywords_count": 12,
+      "rising_count": 6,
+      "top_count": 5,
+      "avg_rising_growth": 500,
+      "avg_top_score": 75,
+      "search_intent": "信息意图",
+      "site_type": "导航站",
+      "monetization": "广告",
+      "opportunity_analysis": "该主题搜索量稳定，适合做视频上传工具导航站",
+      "subthemes": [
+        {
+          "name": "File Upload Tools",
+          "keywords": [
+            {"keyword": "file upload", "value": 15, "type": "top"}
+          ]
+        },
+        {
+          "name": "YouTube Upload Tools",
+          "keywords": [
+            {"keyword": "youtube video uploader", "value": 28, "type": "top"}
+          ]
+        }
+      ]
+    }
+  ]
+}

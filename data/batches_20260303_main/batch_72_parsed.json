@@ -1,0 +1,96 @@
+{
+  "themes": [
+    {
+      "name": "Tattoo & Design",
+      "name_zh": "纹身与设计",
+      "score": 92,
+      "keywords_count": 35,
+      "rising_count": 22,
+      "top_count": 10,
+      "avg_rising_growth": 820,
+      "avg_top_score": 83,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告制",
+      "opportunity_analysis": "纹身设计领域内容丰富，适合内容站布局，结合AI生成工具可提升转化率",
+      "subthemes": [
+        {
+          "name": "Tattoo Design",
+          "keywords": [
+            {
+              "keyword": "tattoo design",
+              "value": 95,
+              "type": "top"
+            },
+            {
+              "keyword": "tattoo studio",
+              "value": 46,
+              "type": "top"
+            },
+            {
+              "keyword": "tattoo ideas",
+              "value": 100,
+              "type": "top"
+            }
+          ]
+        },
+        {
+          "name": "Tattoo Shops",
+          "keywords": [
+            {
+              "keyword": "tattoo shops",
+              "value": 71,
+              "type": "top"
+            },
+            {
+              "keyword": "tattoo near me",
+              "value": 90,
+              "type": "top"
+            },
+            {
+              "keyword": "tattoo shop",
+              "value": 56,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Syncer Tools",
+      "name_zh": "同步工具",
+      "score": 88,
+      "keywords_count": 12,
+      "rising_count": 6,
+      "top_count": 4,
+      "avg_rising_growth": 650,
+      "avg_top_score": 78,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "同步工具需求稳定，适合工具站布局，结合AI生成可提升转化率",
+      "subthemes": [
+        {
+          "name": "Syncer Applications",
+          "keywords": [
+            {
+              "keyword": "tradesyncer",
+              "value": 6,
+              "type": "top"
+            },
+            {
+              "keyword": "tradovate",
+              "value": 5,
+              "type": "top"
+            },
+            {
+              "keyword": "syncer meaning",
+              "value": 3,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

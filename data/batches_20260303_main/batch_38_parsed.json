@@ -1,0 +1,58 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Creative Content",
+      "name_zh": "创意内容",
+      "score": 88,
+      "keywords_count": 14,
+      "rising_count": 12,
+      "top_count": 2,
+      "avg_rising_growth": 700,
+      "avg_top_score": 70,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告制",
+      "opportunity_analysis": "创意内容需求稳定，适合做创意设计素材站"
+    },
+    {
+      "name": "Design Tools",
+      "name_zh": "设计工具",
+      "score": 83,
+      "keywords_count": 10,
+      "rising_count": 8,
+      "top_count": 2,
+      "avg_rising_growth": 650,
+      "avg_top_score": 65,
+      "search_intent": "导航意图",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "设计工具需求广泛，适合做设计素材库站"
+    }
+  ]
+}

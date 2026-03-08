@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {"keyword": "ai image generator", "value": 1200, "type": "rising"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Academic Format Tools",
+      "name_zh": "学术格式工具",
+      "score": 88,
+      "keywords_count": 12,
+      "rising_count": 9,
+      "top_count": 5,
+      "avg_rising_growth": 650,
+      "avg_top_score": 72,
+      "search_intent": "信息意图",
+      "site_type": "内容站",
+      "monetization": "广告",
+      "opportunity_analysis": "学术格式需求稳定，适合做专业工具说明站"
+    },
+    {
+      "name": "Text Generation Tools",
+      "name_zh": "文本生成工具",
+      "score": 83,
+      "keywords_count": 9,
+      "rising_count": 6,
+      "top_count": 4,
+      "avg_rising_growth": 580,
+      "avg_top_score": 68,
+      "search_intent": "导航意图",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "文本生成工具需求广泛，适合做工具推荐站"
+    }
+  ]
+}

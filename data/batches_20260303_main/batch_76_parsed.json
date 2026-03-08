@@ -1,0 +1,64 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {
+              "keyword": "ai image generator",
+              "value": 1200,
+              "type": "rising"
+            }
+          ]
+        },
+        {
+          "name": "Tool Set & Kit",
+          "keywords": [
+            {
+              "keyword": "tool kit",
+              "value": 32,
+              "type": "top"
+            },
+            {
+              "keyword": "tool set",
+              "value": 33,
+              "type": "top"
+            },
+            {
+              "keyword": "tool bag",
+              "value": 14,
+              "type": "top"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tool Software & Services",
+      "name_zh": "工具软件与服务",
+      "score": 88,
+      "keywords_count": 16,
+      "rising_count": 10,
+      "top_count": 6,
+      "avg_rising_growth": 600,
+      "avg_top_score": 75,
+      "search_intent": "商业调查",
+      "site_type": "导航站",
+      "monetization": "联盟营销",
+      "opportunity_analysis": "该主题涉及工具软件服务，适合做工具软件推荐平台"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "name": "AI Image Tools",
+      "name_zh": "AI图片工具",
+      "score": 95,
+      "keywords_count": 25,
+      "rising_count": 18,
+      "top_count": 7,
+      "avg_rising_growth": 800,
+      "avg_top_score": 85,
+      "search_intent": "交易意图",
+      "site_type": "工具站",
+      "monetization": "订阅制",
+      "opportunity_analysis": "该主题增长迅速，适合做AI图片生成工具站",
+      "subthemes": [
+        {
+          "name": "AI Image Generator",
+          "keywords": [
+            {"keyword": "ai image generator", "value": 1200, "type": "rising"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Conversion Tools",
+      "name_zh": "转换工具",
+      "score": 92,
+      "keywords_count": 22,
+      "rising_count": 15,
+      "top_count": 6,
+      "avg_rising_growth": 700,
+      "avg_top_score": 80,
+      "search_intent": "信息意图",
+      "site_type": "工具站",
+      "monetization": "广告制",
+      "opportunity_analysis": "该主题增长稳定，适合做在线转换工具平台",
+      "subthemes": [
+        {
+          "name": "PDF to Word Converter",
+          "keywords": [
+            {"keyword": "pdf to word converter", "value": 97, "type": "top"}
+          ]
+        },
+        {
+          "name": "Video Converter",
+          "keywords": [
+            {"keyword": "video converter", "value": 19, "type": "top"}
+          ]
+        }
+      ]
+    }
+  ]
+}
