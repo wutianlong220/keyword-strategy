@@ -171,3 +171,16 @@ business_analysis:
     informational: 信息意图
     navigational: 导航意图
     commercial_investigation: 商业调查
+
+# ====================
+# V5 逐词管道配置
+# ====================
+v5_pipeline:
+  batch_size: 20                          # 每批处理关键词数
+  output_dir: "analysis/seo-auto-v5"      # 输出目录 (相对于项目根)
+  resume: true                            # 是否支持断点续跑
+  stages:
+    stage2_serp:
+      skip_categories: ["SEED", "TRASH"]  # 跳过 SERP 验证的分类
+      skip_priorities: ["NEED_REVIEW", "SEED_POOL"]  # 跳过 SERP 验证的优先级
+      search_topn: 5                      # DuckDuckGo 抓取结果数
